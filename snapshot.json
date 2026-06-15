@@ -1,0 +1,883 @@
+{
+  "version": "1",
+  "dataAsOf": "2026-06-11",
+  "updatedAt": "2026-06-11T19:45:00Z",
+  "exportedAt": "2026-06-12T19:06:33.890Z",
+  "districtCode": "NY-17",
+  "data": {
+    "DISTRICT": {
+      "id": "ny-17",
+      "districtNumber": "NY-17",
+      "districtName": "New York's 17th Congressional District",
+      "state": "New York",
+      "counties": [
+        "Rockland (all)",
+        "Putnam (all)",
+        "Westchester (21 municipalities)",
+        "Dutchess (4 municipalities: East Fishkill, Pawling town, Pawling village, Beekman partial)"
+      ],
+      "majorPlaces": [
+        "Spring Valley",
+        "New City",
+        "Nanuet",
+        "Peekskill",
+        "Carmel",
+        "Brewster",
+        "Ossining",
+        "Yorktown"
+      ],
+      "cycleYear": 2026,
+      "population": 776000,
+      "registeredVoters": 390000,
+      "partyRegistration": [
+        {
+          "label": "Democratic",
+          "count": 175000,
+          "pct": 44.9
+        },
+        {
+          "label": "Republican",
+          "count": 118000,
+          "pct": 30.3
+        },
+        {
+          "label": "No Party / Independent",
+          "count": 68000,
+          "pct": 17.4
+        },
+        {
+          "label": "Other / Minor Parties",
+          "count": 29000,
+          "pct": 7.4
+        }
+      ],
+      "previousResult": {
+        "year": 2024,
+        "seat": "U.S. House — NY-17",
+        "winner": {
+          "name": "Mike Lawler (R)",
+          "pct": 52.1,
+          "votes": 154000
+        },
+        "runnerUp": {
+          "name": "Mondaire Jones (D)",
+          "pct": 45.8,
+          "votes": 135000
+        },
+        "turnoutPct": 57
+      }
+    },
+    "SOURCES": {
+      "src-ny-boe-elections": {
+        "id": "src-ny-boe-elections",
+        "name": "New York State Board of Elections",
+        "short": "NYS BOE",
+        "url": "https://www.elections.ny.gov",
+        "publisher": "New York State Board of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-ny-elec-law": {
+        "id": "src-ny-elec-law",
+        "name": "New York Election Law (Consolidated Laws)",
+        "short": "NY Election Law",
+        "url": "https://www.nysenate.gov/legislation/laws/ELN",
+        "publisher": "New York State Legislature",
+        "sourceType": "statutory",
+        "hierarchyLevel": 3,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-rockland-boe": {
+        "id": "src-rockland-boe",
+        "name": "Rockland County Board of Elections",
+        "short": "Rockland BOE",
+        "url": "https://rocklandgov.com/departments/board-of-elections/",
+        "publisher": "Rockland County Board of Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-westchester-boe": {
+        "id": "src-westchester-boe",
+        "name": "Westchester County Board of Elections",
+        "short": "Westchester BOE",
+        "url": "https://www.westchestergov.com/boe",
+        "publisher": "Westchester County Board of Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-putnam-boe": {
+        "id": "src-putnam-boe",
+        "name": "Putnam County Board of Elections",
+        "short": "Putnam BOE",
+        "url": "https://www.putnamcountyny.com/board-of-elections/",
+        "publisher": "Putnam County Board of Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-dutchess-boe": {
+        "id": "src-dutchess-boe",
+        "name": "Dutchess County Board of Elections",
+        "short": "Dutchess BOE",
+        "url": "https://www.dutchessny.gov/Departments/Board-of-Elections/Board-of-Elections.htm",
+        "publisher": "Dutchess County Board of Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-ballotpedia-ny17": {
+        "id": "src-ballotpedia-ny17",
+        "name": "Ballotpedia — New York's 17th Congressional District election, 2026",
+        "short": "Ballotpedia NY-17",
+        "url": "https://ballotpedia.org/New_York%27s_17th_Congressional_District_election,_2026",
+        "publisher": "Ballotpedia",
+        "sourceType": "secondary",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-nyack-news": {
+        "id": "src-nyack-news",
+        "name": "Nyack News & Views — Lower Hudson Valley civic journalism",
+        "short": "Nyack News & Views",
+        "url": "https://nyacknewsandviews.com/",
+        "publisher": "Nyack News & Views",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-city-state-ny": {
+        "id": "src-city-state-ny",
+        "name": "City & State New York — Politics & Policy",
+        "short": "City & State NY",
+        "url": "https://www.cityandstateny.com/",
+        "publisher": "City & State New York",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-patch-westchester": {
+        "id": "src-patch-westchester",
+        "name": "Patch — Westchester County / New Rochelle edition",
+        "short": "Patch Westchester",
+        "url": "https://patch.com/new-york/newrochelle",
+        "publisher": "Patch Media",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-redistricting-online": {
+        "id": "src-redistricting-online",
+        "name": "Redistricting Online (NCSL redistricting tracker)",
+        "short": "Redistricting Online",
+        "url": "https://redistrictingonline.org/",
+        "publisher": "National Conference of State Legislatures",
+        "sourceType": "secondary",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      }
+    },
+    "ELECTION_EVENTS": [
+      {
+        "id": "evt-ny17-primary-reg-deadline",
+        "milestone": "Voter registration deadline — primary",
+        "electionType": "primary",
+        "date": "2026-06-09",
+        "significance": "Last day to register by mail or in-person for the June 23, 2026 New York primary. New York requires registration at least 25 days before an election (NY Election Law § 5-210). Online registration also closes June 9.",
+        "governingAuthority": "New York State Board of Elections",
+        "sourceIds": [
+          "src-ny-boe-elections",
+          "src-ny-elec-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ny17-primary-mail-request-deadline",
+        "milestone": "Early mail / absentee ballot request deadline — primary",
+        "electionType": "primary",
+        "date": "2026-06-13",
+        "significance": "Under the Early Mail Voter Act (S7394A, enacted 2023, in effect 2024+), any registered voter may request an early mail ballot without excuse. Online/mail requests must be received by the county BOE at least 10 days before the election. In-person applications may be submitted through the day before Election Day.",
+        "governingAuthority": "New York State Board of Elections",
+        "sourceIds": [
+          "src-ny-boe-elections",
+          "src-ny-elec-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ny17-primary-early-start",
+        "milestone": "In-person early voting begins — primary",
+        "electionType": "primary",
+        "date": "2026-06-13",
+        "significance": "New York provides a 10-day in-person early voting window ending the day before Election Day. For the June 23 primary, early voting runs June 13–21 at designated sites in each county. Hours and locations set by each county BOE. Westchester opens 25 early voting centers; Rockland and Putnam BOEs publish their own site lists.",
+        "governingAuthority": "Rockland, Westchester, Putnam, and Dutchess County Boards of Elections",
+        "sourceIds": [
+          "src-rockland-boe",
+          "src-westchester-boe",
+          "src-putnam-boe",
+          "src-dutchess-boe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ny17-primary-early-end",
+        "milestone": "In-person early voting ends — primary",
+        "electionType": "primary",
+        "date": "2026-06-21",
+        "significance": "Last day of 10-day early voting window (June 13–21). The day before Election Day. Results from early voting are counted after 9 PM on primary Election Day, June 23.",
+        "governingAuthority": "Rockland, Westchester, Putnam, and Dutchess County Boards of Elections",
+        "sourceIds": [
+          "src-rockland-boe",
+          "src-westchester-boe",
+          "src-putnam-boe",
+          "src-dutchess-boe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ny17-primary-day",
+        "milestone": "Primary election day",
+        "electionType": "primary",
+        "date": "2026-06-23",
+        "significance": "New York state primary. Polls open 6 AM – 9 PM. D primary: five-way race — Cait Conley (Army vet, ex-Biden NSC, ~65% prediction market odds), Beth Davidson (Rockland County Legislator), Effie Phillips-Staley (Tarrytown Village Trustee, on D + WFP lines), John Cappello (fmr Air Force officer), Mike Sacks (lawyer/journalist). R: Mike Lawler effectively uncontested.",
+        "governingAuthority": "New York State Board of Elections",
+        "sourceIds": [
+          "src-ny-boe-elections",
+          "src-ballotpedia-ny17"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ny17-primary-mail-postmark-deadline",
+        "milestone": "Early mail ballot postmark deadline — primary",
+        "electionType": "primary",
+        "date": "2026-06-23",
+        "significance": "Under NY Election Law, early mail / absentee ballots must be postmarked by Election Day (June 23). IMPORTANT: NYS BOE June 9, 2026 advisory warns that USPS 2026 postmark-change procedures may date a ballot deposited in a street collection box on Election Day with a next-day postmark — making it technically late. BOE urges voters to mail early or obtain a manual hand-stamp at a USPS retail counter.",
+        "governingAuthority": "New York State Board of Elections",
+        "sourceIds": [
+          "src-ny-boe-elections",
+          "src-ny-elec-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ny17-primary-mail-receipt-deadline",
+        "milestone": "Early mail ballot receipt deadline — primary",
+        "electionType": "primary",
+        "date": "2026-06-30",
+        "significance": "Early mail and absentee ballots that are properly postmarked by Election Day (June 23) must be received by the county BOE within 7 days — by June 30, 2026. Ballots received after June 30 without a valid postmark are not counted.",
+        "governingAuthority": "Rockland, Westchester, Putnam, and Dutchess County Boards of Elections",
+        "sourceIds": [
+          "src-ny-boe-elections",
+          "src-ny-elec-law",
+          "src-rockland-boe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ny17-primary-canvass-deadline",
+        "milestone": "County canvass certification deadline — primary",
+        "electionType": "primary",
+        "date": "2026-07-16",
+        "significance": "County boards of elections must complete the official canvass and certify results. New York requires county certification within approximately 21 days of the primary. Provisional and challenged ballots are adjudicated during this window.",
+        "governingAuthority": "Rockland, Westchester, Putnam, and Dutchess County Boards of Elections",
+        "sourceIds": [
+          "src-ny-boe-elections",
+          "src-ny-elec-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ny17-general-reg-deadline",
+        "milestone": "Voter registration deadline — general",
+        "electionType": "general",
+        "date": "2026-10-10",
+        "significance": "Standard NY registration deadline: 25 days before Election Day (NY Election Law § 5-210). For the November 3, 2026 general election, the deadline is October 10, 2026. Online registration at NY.gov also closes October 10.",
+        "governingAuthority": "New York State Board of Elections",
+        "sourceIds": [
+          "src-ny-boe-elections",
+          "src-ny-elec-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ny17-general-mail-request-deadline",
+        "milestone": "Early mail / absentee ballot request deadline — general",
+        "electionType": "general",
+        "date": "2026-10-24",
+        "significance": "Online/mail requests for early mail ballots (under Early Mail Voter Act) or absentee ballots must be received by county BOEs at least 10 days before Election Day — by October 24, 2026. In-person applications may be submitted through the day before Election Day (November 2).",
+        "governingAuthority": "New York State Board of Elections",
+        "sourceIds": [
+          "src-ny-boe-elections",
+          "src-ny-elec-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ny17-general-early-start",
+        "milestone": "In-person early voting begins — general",
+        "electionType": "general",
+        "date": "2026-10-24",
+        "significance": "10-day early voting window for the general election: October 24 through November 1, 2026. Voters may use any county-designated early voting site. Hours and locations published by each county BOE. Check rocklandgov.com/boe, westchestergov.com/boe, putnamcountyny.com/boe, and dutchessny.gov/boe for site schedules.",
+        "governingAuthority": "Rockland, Westchester, Putnam, and Dutchess County Boards of Elections",
+        "sourceIds": [
+          "src-rockland-boe",
+          "src-westchester-boe",
+          "src-putnam-boe",
+          "src-dutchess-boe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ny17-general-early-end",
+        "milestone": "In-person early voting ends — general",
+        "electionType": "general",
+        "date": "2026-11-01",
+        "significance": "Last day of general election early voting (10-day window: Oct 24 – Nov 1). The day before Election Day.",
+        "governingAuthority": "Rockland, Westchester, Putnam, and Dutchess County Boards of Elections",
+        "sourceIds": [
+          "src-rockland-boe",
+          "src-westchester-boe",
+          "src-putnam-boe",
+          "src-dutchess-boe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ny17-general-day",
+        "milestone": "General election day",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "U.S. midterm general election. NY-17: Mike Lawler (R, incumbent, Conservative Party cross-endorsement expected) vs. winner of June 23 D primary (likely Cait Conley or Beth Davidson). Polls open 6 AM – 9 PM. Fusion ballot: WFP line will appear separately from Democratic line if WFP cross-endorses the D nominee.",
+        "governingAuthority": "New York State Board of Elections",
+        "sourceIds": [
+          "src-ny-boe-elections",
+          "src-ballotpedia-ny17"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ny17-general-mail-postmark-deadline",
+        "milestone": "Early mail ballot postmark deadline — general",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "Early mail / absentee ballots must be postmarked by Election Day (Nov 3). The NYS BOE USPS postmark advisory applies: ballots deposited in street collection boxes on Election Day may receive a next-day postmark under 2026 USPS procedures, rendering them late. Voters should mail early or obtain a hand-stamp at a USPS retail counter.",
+        "governingAuthority": "New York State Board of Elections",
+        "sourceIds": [
+          "src-ny-boe-elections",
+          "src-ny-elec-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ny17-general-mail-receipt-deadline",
+        "milestone": "Early mail ballot receipt deadline — general",
+        "electionType": "general",
+        "date": "2026-11-10",
+        "significance": "Properly postmarked early mail / absentee ballots must be received by county BOEs within 7 days of Election Day — by November 10, 2026 — to be counted in the official canvass.",
+        "governingAuthority": "Rockland, Westchester, Putnam, and Dutchess County Boards of Elections",
+        "sourceIds": [
+          "src-ny-boe-elections",
+          "src-ny-elec-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ny17-general-canvass-deadline",
+        "milestone": "County canvass certification deadline — general",
+        "electionType": "general",
+        "date": "2026-11-24",
+        "significance": "County boards of elections must complete the official canvass. NY requires county certification within approximately 21 days of Election Day. Provisional ballots, challenged early mail ballots, and affidavit ballots are all adjudicated during this window. In close races (2022 NY-17 margin was 0.6 pts), the canvass period is critical.",
+        "governingAuthority": "Rockland, Westchester, Putnam, and Dutchess County Boards of Elections",
+        "sourceIds": [
+          "src-ny-boe-elections",
+          "src-ny-elec-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      }
+    ],
+    "RULES": [
+      {
+        "id": "rule-ny-early-mail-voter-act",
+        "topic": "Early Mail Voter Act — excuse-free mail ballots",
+        "currentRule": "Under S7394A (Early Mail Voter Act, enacted 2023, in effect 2024+), any registered New York voter may request a mail ballot for any election without providing an excuse. This is separate from traditional absentee voting (which still requires an excuse under NY Constitution Art. II § 2). Voters enrolled for the program receive ballots automatically; others apply per-election.",
+        "status": "active",
+        "whyItMatters": "All registered NY-17 voters in Rockland, Westchester, Putnam, and Dutchess counties may now vote by mail without an excuse. This significantly expands the pool of mail ballots returned, which affects the post-election canvass timeline in close races.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ny-boe-elections",
+          "src-ny-elec-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "NY Election Law § 8-400 et seq. (as amended by S7394A). Pending S6995/A8310 would harmonize early mail and absentee programs but has not passed as of June 2026."
+      },
+      {
+        "id": "rule-ny-absentee-voting",
+        "topic": "Traditional absentee voting — excuse required",
+        "currentRule": "Absentee ballots remain available under the traditional system (NY Constitution Art. II § 2) for voters with a qualifying excuse: absence from county on Election Day, illness or disability, or detention. Voters may apply by mail (received at least 7 days before election) or in person (up to the day before Election Day). The Early Mail Voter Act provides a parallel excuse-free mechanism.",
+        "status": "active",
+        "whyItMatters": "NY-17 spans four counties. Voters who did not enroll in the Early Mail Voter Act program may still vote absentee with a qualifying excuse. County-by-county application procedures and deadlines differ slightly from the early mail program.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ny-boe-elections",
+          "src-ny-elec-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "NY Election Law §§ 8-400, 8-402. Absentee application deadline: 7 days before election by mail, or 1 day before in person. Results co-canvassed with early mail ballots."
+      },
+      {
+        "id": "rule-ny-early-voting",
+        "topic": "10-day in-person early voting",
+        "currentRule": "New York provides a mandatory 10-day early voting period ending the day before Election Day. For the June 23, 2026 primary: June 13–21. For the Nov 3, 2026 general: Oct 24–Nov 1. Each county board designates early voting sites. Any registered voter in the county may vote at any designated early voting site regardless of home polling place.",
+        "status": "active",
+        "whyItMatters": "NY-17 voters in all four counties — Rockland, Westchester, Putnam, Dutchess — have access to 10-day early voting. Westchester opened 25 sites for the 2026 primary; Rockland and Putnam BOEs publish their own site schedules. Confirm site locations before visiting, as sites may change cycle to cycle (e.g., Westchester's Ossining site changed for 2026).",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ny-boe-elections",
+          "src-ny-elec-law",
+          "src-rockland-boe",
+          "src-westchester-boe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "NY Election Law § 8-600 et seq. Hours set by county BOE (typically 9 AM–5 PM early days, extended on weekends). Early voting results reported after 9 PM on Election Night."
+      },
+      {
+        "id": "rule-ny-registration-deadline",
+        "topic": "Voter registration deadline — 25 days before election",
+        "currentRule": "New York requires voter registration at least 25 days before Election Day. For the June 23, 2026 primary: deadline is June 9, 2026. For the November 3, 2026 general: deadline is October 10, 2026. Registration is by mail or in-person at county BOE offices. Online registration available at vote.org or NY DMV portal. No same-day registration in New York.",
+        "status": "active",
+        "whyItMatters": "Unlike states with same-day registration, NY voters who miss the 25-day deadline cannot register and vote in the same election. NY-17 has competitive turnout patterns (2022 margin 0.6 pts); missed registration is a meaningful disenfranchisement risk.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ny-boe-elections",
+          "src-ny-elec-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "NY Election Law § 5-210. No conditional/same-day registration. Deadline for 2026 general: October 10, 2026 (25 days before Nov 3)."
+      },
+      {
+        "id": "rule-ny-fusion-voting",
+        "topic": "Fusion voting — multiple ballot lines",
+        "currentRule": "New York permits fusion voting: a candidate may appear on multiple party lines on the same ballot, and votes from all lines are aggregated. Minor parties (Working Families Party, Conservative Party) may cross-endorse a major party candidate. In NY-17: Effie Phillips-Staley appears on both the Democratic and Working Families Party primary lines. If Lawler wins re-election, Conservative Party votes are expected to add to his total.",
+        "status": "active",
+        "whyItMatters": "Fusion ballot lines are procedurally and legally significant in NY-17. Lawler's campaign filed a ballot-access challenge against Phillips-Staley's WFP petition (rejected by state courts). In the general election, the WFP and Conservative Party lines appear as separate choices but their votes count for the same candidate. Voters must be aware of which line they select.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ny-boe-elections",
+          "src-ny-elec-law",
+          "src-city-state-ny"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "NY Election Law § 6-120. Conservative Party cross-endorsement of Lawler expected as in 2022 and 2024. WFP general-election line will depend on whether WFP cross-endorses the D nominee after the primary."
+      },
+      {
+        "id": "rule-ny-voter-id",
+        "topic": "Voter identification requirements",
+        "currentRule": "New York does not require photo ID to vote. First-time voters who registered by mail and did not provide a driver license number or last four digits of SSN must provide identification (photo ID, utility bill, bank statement, government document with name and address). Returning registered voters do not present ID at the polls.",
+        "status": "active",
+        "whyItMatters": "Most NY-17 voters (Rockland, Westchester, Putnam, Dutchess) will not be required to show ID at their polling place or early voting site. First-time mail registrants who did not supply ID-number at registration should bring a document to the polls.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ny-boe-elections",
+          "src-ny-elec-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Federal HAVA (52 U.S.C. § 21083) triggers ID requirement for first-time federal-election voters who registered by mail without ID verification. NY implements this per NY Election Law § 8-302."
+      },
+      {
+        "id": "rule-ny-affidavit-ballot",
+        "topic": "Affidavit (provisional) ballots",
+        "currentRule": "A voter whose registration cannot be confirmed at the polls is entitled to cast an affidavit ballot (New York's equivalent of a provisional ballot). The ballot is sealed and adjudicated by the county BOE during the canvass. Reasons include: voter not found in poll book, voter's address has changed, voter claims to have registered but is not on file.",
+        "status": "active",
+        "whyItMatters": "In a district spanning four counties like NY-17, voters who recently moved between towns within the district may need to cast an affidavit ballot at their new polling place. These ballots are counted during the canvass and can affect close outcomes.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ny-boe-elections",
+          "src-ny-elec-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "NY Election Law § 8-302(4). Affidavit ballot voters should also contact their county BOE to confirm registration status as soon as possible after the election."
+      },
+      {
+        "id": "rule-ny-mail-ballot-postmark",
+        "topic": "Mail ballot postmark requirement and USPS advisory",
+        "currentRule": "Under NY Election Law, early mail and absentee ballots must be postmarked by Election Day to be counted if received within 7 days after the election. The NYS BOE issued a June 9, 2026 advisory warning that under updated USPS 2026 processing rules, ballots deposited in street collection boxes on Election Day may receive a postmark dated the next day — making them technically late. BOE Co-Executive Directors advise: mail early, or bring your ballot to a USPS retail counter and request a free manual hand-stamp postmark.",
+        "status": "watch",
+        "whyItMatters": "This is a critical procedural risk for NY-17 voters. A ballot deposited in a collection box on June 23 or November 3 may not receive a same-day postmark under 2026 USPS procedures. The 7-day receipt window (through June 30 / Nov 10) is not helpful if the postmark is dated the day after Election Day.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ny-boe-elections",
+          "src-ny-elec-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "NY Election Law § 8-412 (absentee) and § 8-407 (early mail). NYS BOE advisory: https://www.sullivanny.gov/news/nys-board-elections-urges-voters-mail-completed-ballots-early-following-usps-postmark-changes"
+      },
+      {
+        "id": "rule-ny-envelope-cure",
+        "topic": "Early mail ballot envelope defect — cure procedures",
+        "currentRule": "County boards of elections must notify voters of certain defects in returned early mail / absentee ballot envelopes (missing signature, mismatched signature). NY law provides a cure process, but the procedures for early mail ballots under the Early Mail Voter Act (S7394A) are not yet fully harmonized with traditional absentee cure procedures. Pending S6995/A8310 would harmonize the two systems; as of June 2026 the bill has not passed.",
+        "status": "watch",
+        "whyItMatters": "NY-17 spans four county boards of elections, each with some discretion in cure procedures. In a race decided by hundreds of votes (2022 margin: ~2,000 votes, 0.6 pts), borderline early mail ballots could determine the outcome. Voters who receive a cure notice from their county BOE must respond within the county's specified window.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ny-boe-elections",
+          "src-ny-elec-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "NY Election Law §§ 8-410, 8-412. County-level cure procedures may vary. Pending harmonization bill: S6995/A8310 (Let NY Vote Coalition priority, 2026 session). Confirm cure window with each county BOE."
+      },
+      {
+        "id": "rule-ny-polling-hours",
+        "topic": "Polling place hours",
+        "currentRule": "New York polling places are open from 6:00 AM to 9:00 PM on Election Day for all primaries and general elections. Any voter who is in line at 9:00 PM is entitled to vote.",
+        "status": "active",
+        "whyItMatters": "NY-17 polling places in all four counties follow the statewide 6 AM–9 PM schedule. Early voting sites have their own hours set by each county BOE, typically shorter than Election Day hours.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ny-boe-elections",
+          "src-ny-elec-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "NY Election Law § 8-100. In-line-at-close rule is statutory."
+      },
+      {
+        "id": "rule-ny-redistricting-hoffman",
+        "topic": "Current district lines — Hoffman decision (Dec 2023)",
+        "currentRule": "The current NY-17 district boundaries were drawn following the New York Court of Appeals' December 2023 decision in Hoffman v. New York State Ind. Redistricting Commission, which rejected the legislature's congressional map and required new lines. The resulting court-ordered map defines the current NY-17: all of Rockland County, all of Putnam County, 21 Westchester municipalities, and 4 Dutchess municipalities.",
+        "status": "watch",
+        "whyItMatters": "A NY Legislature constitutional amendment (S.10637-A/A.11553, passed June 3, 2026) would permit mid-decade redistricting and could redraw NY-17 before the 2028 cycle — but cannot affect 2026. The 2026 general election may be the last under these lines. Pending statewide referendum vote (projected Nov 2027).",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ballotpedia-ny17",
+          "src-redistricting-online"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Hoffman v. New York State Ind. Redistricting Commission, NY Court of Appeals, Dec 2023. Amendment S.10637-A/A.11553 requires second passage by 2027 legislature and voter referendum before taking effect."
+      }
+    ],
+    "RESOURCES": [
+      {
+        "id": "res-ny-boe-elections",
+        "label": "NYS Board of Elections — Elections portal",
+        "url": "https://www.elections.ny.gov",
+        "description": "Official New York State elections hub: voter registration, election calendar, county BOE directory, early voting and absentee information. Authoritative source for NY-17 election deadlines statewide.",
+        "governingAuthority": "New York State Board of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-ny-boe-elections",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-ny-voter-register",
+        "label": "NY Online Voter Registration",
+        "url": "https://www.elections.ny.gov/VoterRegForm.html",
+        "description": "Register to vote or update your registration online through the NYS BOE. Deadline for 2026 general election: October 10, 2026 (25 days before Nov 3). Also available through NY DMV portal.",
+        "governingAuthority": "New York State Board of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-ny-boe-elections",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-ny-voter-status",
+        "label": "NY Am I Registered? — Voter status lookup",
+        "url": "https://www.elections.ny.gov/CheckRegistration.html",
+        "description": "Check your voter registration status, find your assigned polling place, and confirm your early voting site in Rockland, Westchester, Putnam, or Dutchess County.",
+        "governingAuthority": "New York State Board of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-ny-boe-elections",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-ny-absentee-portal",
+        "label": "NY Absentee / Early Mail Ballot Request",
+        "url": "https://www.elections.ny.gov/VotingAbsentee.html",
+        "description": "Request an absentee ballot (with excuse) or an early mail ballot (no excuse required, under Early Mail Voter Act). Covers the June 23, 2026 primary and November 3, 2026 general election.",
+        "governingAuthority": "New York State Board of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-ny-boe-elections",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-rockland-boe",
+        "label": "Rockland County Board of Elections",
+        "url": "https://rocklandgov.com/departments/board-of-elections/",
+        "description": "Official elections page for Rockland County voters (Spring Valley, New City, Nanuet, Nyack, Haverstraw area) — where Lawler kicked off his 2026 re-election campaign. Early voting sites, polling places, canvass updates.",
+        "governingAuthority": "Rockland County Board of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-rockland-boe",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-westchester-boe",
+        "label": "Westchester County Board of Elections",
+        "url": "https://www.westchestergov.com/boe",
+        "description": "Official elections page for Westchester County voters in NY-17 municipalities (Peekskill, Cortlandt, Ossining, Somers, Yorktown, Bedford, and others). 25 early voting centers for 2026 primary. Note: Ossining site changed from Caputo Community Center to St. Ann's School for 2026.",
+        "governingAuthority": "Westchester County Board of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-westchester-boe",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-putnam-boe",
+        "label": "Putnam County Board of Elections",
+        "url": "https://www.putnamcountyny.com/board-of-elections/",
+        "description": "Official elections page for Putnam County voters (Carmel, Brewster, Patterson, Mahopac area) — all of Putnam is in NY-17. Early voting locations, absentee/early mail ballot requests, and results.",
+        "governingAuthority": "Putnam County Board of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-putnam-boe",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-dutchess-boe",
+        "label": "Dutchess County Board of Elections",
+        "url": "https://www.dutchessny.gov/Departments/Board-of-Elections/Board-of-Elections.htm",
+        "description": "Official elections page for Dutchess County voters in NY-17 municipalities (East Fishkill, Pawling town, Pawling village, Beekman partial).",
+        "governingAuthority": "Dutchess County Board of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-dutchess-boe",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-ballotpedia-ny17",
+        "label": "Ballotpedia — NY-17 2026 election",
+        "url": "https://ballotpedia.org/New_York%27s_17th_Congressional_District_election,_2026",
+        "description": "Nonpartisan reference page for NY-17's 2026 election: candidate profiles, primary schedule, race ratings (Cook: Toss Up; Sabato: Leans R), and campaign finance summary.",
+        "governingAuthority": "Ballotpedia",
+        "sourceType": "secondary",
+        "sourceId": "src-ballotpedia-ny17",
+        "lastVerified": "2026-06-11"
+      }
+    ],
+    "UPDATES": [
+      {
+        "id": "upd-ny17-001",
+        "title": "NY-17 dashboard initialized — 11 sources, 16 events, 11 rules wired",
+        "fieldChanged": "Dashboard configuration",
+        "oldValue": "Not configured",
+        "newValue": "Initial build June 11, 2026. Sources: NYS BOE, NY Election Law, Rockland/Westchester/Putnam/Dutchess county BOEs, Ballotpedia, Nyack News & Views, City & State NY, Patch Westchester, Redistricting Online. All 16 election events and 11 voting rules researched from NYS BOE and NY Election Law. All events/rules marked needsReview/unconfirmed pending authoritative confirmation from each county BOE. Primary June 23 (early voting June 13–21). General Nov 3. Candidates: Lawler (R, incumbent) vs. 5-way D primary (Conley, Davidson, Phillips-Staley, Cappello, Sacks).",
+        "sourceIds": [
+          "src-ny-boe-elections",
+          "src-rockland-boe",
+          "src-westchester-boe",
+          "src-putnam-boe"
+        ],
+        "detectedAt": "2026-06-11T19:45:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      },
+      {
+        "id": "upd-ny17-002",
+        "title": "D primary still pending (June 23) — Lawler confirmed for general; D nominee TBD",
+        "fieldChanged": "General election candidates",
+        "oldValue": "Primary pending (June 23, 2026)",
+        "newValue": "Mike Lawler (R, incumbent) is effectively uncontested in the Republican primary and will appear on both Republican and expected Conservative Party lines in the general election. The Democratic nominee will be determined June 23: five-way primary with Cait Conley (~65% prediction market odds), Beth Davidson (leads/ties Conley in earlier polls), Effie Phillips-Staley (D + WFP lines, distant third in polling), John Cappello, and Mike Sacks. Cook Political Report: Toss Up. Sabato's Crystal Ball: Leans R.",
+        "sourceIds": [
+          "src-ballotpedia-ny17",
+          "src-nyack-news"
+        ],
+        "detectedAt": "2026-06-11T19:45:00Z",
+        "severity": "high",
+        "reviewState": "new",
+        "visibility": "public"
+      },
+      {
+        "id": "upd-ny17-003",
+        "title": "All rules and event dates flagged for county-level verification; USPS postmark risk logged",
+        "fieldChanged": "QA status",
+        "oldValue": "Not yet reviewed",
+        "newValue": "11 voting rules and 16 election events all marked needsReview: true, confidence: unconfirmed (lastVerified 2026-06-11). Key items for review: (1) Exact cure window dates for Early Mail Voter Act ballots vs. absentee ballots in all 4 counties. (2) USPS 2026 postmark-change risk — per NYS BOE June 9 advisory, Election Day collection-box deposits may receive next-day postmarks. (3) S6995/A8310 harmonization bill — not yet passed; county-level cure procedures remain non-uniform. Verify with Rockland, Westchester, Putnam, and Dutchess BOEs before publish.",
+        "sourceIds": [
+          "src-ny-elec-law",
+          "src-ny-boe-elections"
+        ],
+        "detectedAt": "2026-06-11T19:45:00Z",
+        "severity": "medium",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      }
+    ],
+    "CONFLICTS": [
+      {
+        "id": "conf-ny17-001",
+        "factInQuestion": "Whether NY's Election Day postmark deadline for early mail / absentee ballots is effectively enforceable given 2026 USPS postmark-change procedures — and whether pending S6995/A8310 changes the cure framework before the November 2026 election",
+        "sourceAId": "src-ny-boe-elections",
+        "sourceAClaim": "The NYS BOE June 9, 2026 advisory (relayed by Sullivan County Government) warns that updated USPS 2026 processing rules date a postmark to the day mail is *processed at a postal facility*, not the day it is deposited. A ballot dropped in a street collection box on Election Day (June 23 or Nov 3) may receive a postmark of June 24 or later — making it late under NY Election Law even though the voter acted on time. The BOE's only available workaround is to request a free manual hand-stamp postmark at a USPS retail counter. Source: https://www.sullivanny.gov/news/nys-board-elections-urges-voters-mail-completed-ballots-early-following-usps-postmark-changes",
+        "sourceBId": "src-ny-elec-law",
+        "sourceBClaim": "Pending NY legislation S6995/A8310 (a 2026 Let NY Vote Coalition priority) would harmonize the Early Mail Voter Act and traditional absentee programs, allowing county BOEs to treat failed absentee requests as early mail ballot requests and streamlining cure procedures for envelope defects. As of June 2026 the bill has not passed, meaning county BOEs operate two separate statutory frameworks — one excuse-based (absentee) and one excuse-free (early mail) — each with distinct envelope-cure procedures. This creates county-by-county variation in how borderline ballots are handled. Source: https://www.citylandnyc.org/ny-elections-census-and-redistricting-update-05-18-26/",
+        "whyItMatters": "NY-17 covers four counties with independent boards of elections. If the race is decided by hundreds of votes — as in 2022 (margin: ~2,000 votes, 0.6 pts) — the post-election canvass could turn on whether Election Day collection-box deposits receive valid same-day postmarks and whether early mail ballot envelope defects are cured consistently across Rockland, Westchester, Putnam, and Dutchess counties. The BOE advisory acknowledges the USPS risk but provides no legal fix; the harmonization legislation that would address the cure-procedure gap remains pending.",
+        "suggestedReviewAction": "Confirm with each of the four county BOEs (Rockland, Westchester, Putnam, Dutchess) what procedures they will apply to: (a) early mail ballots deposited in collection boxes on Election Day with next-day postmarks; and (b) early mail ballot envelopes with defective or missing signatures. Update the mail-ballot postmark rule and envelope-cure rule with county-specific confirmed procedures before publish. Monitor S6995/A8310 for passage; if enacted before Nov 3, update cure rules.",
+        "severity": "high",
+        "status": "unresolved",
+        "createdAt": "2026-06-11T19:45:00Z"
+      }
+    ],
+    "NEWS": [
+      {
+        "id": "news-ny17-001",
+        "headline": "NYS Board of Elections Urges Voters to Mail Completed Ballots Early Following USPS Postmark Changes",
+        "sourceName": "New York State Board of Elections (via Sullivan County Government news relay)",
+        "url": "https://www.sullivanny.gov/news/nys-board-elections-urges-voters-mail-completed-ballots-early-following-usps-postmark-changes",
+        "publishedAt": "2026-06-09",
+        "relevanceSummary": "The New York State Board of Elections issued an advisory warning voters in NY-17 and statewide that USPS postmark procedures changed in 2026 — mail deposited in a collection box may now receive a postmark dated the day it is processed at a postal facility rather than the day it was deposited, potentially causing ballots mailed on Election Day (June 23) to appear postmarked after that deadline. Co-Executive Directors Kristen Zebrowski Stavisky and Raymond J. Riley III urged voters to mail early mail and absentee ballots well before the June 23 deadline, or to request a free manual hand-stamp postmark at a USPS retail counter. Under New York State law, properly postmarked ballots must be received by the county board of elections within seven days of Election Day (by June 30 for the primary).",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-002",
+        "headline": "Early Voting Set To Start In Westchester County: Primary 2026",
+        "sourceName": "Patch (Westchester County / New Rochelle edition)",
+        "url": "https://patch.com/new-york/newrochelle/early-voting-set-start-westchester-county-primary-2026",
+        "publishedAt": "2026-06-12",
+        "relevanceSummary": "Westchester County — which covers the eastern portion of NY-17 including Peekskill, Cortlandt, Ossining, Somers, Yorktown, and North Salem — opens 25 early voting centers beginning Saturday June 13, 2026 through Sunday June 21. All registered Democrats in the county are eligible and may vote at any of the 25 designated sites. Notably, the Joseph G. Caputo Community Center has been replaced by St. Ann's School in Ossining for this election cycle, representing a procedural change voters need to confirm before visiting a previously used site. Early voting results are canvassed and reported after 9 p.m. on primary Election Day, June 23.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-003",
+        "headline": "Rockland Primary Preview: All Eyes Will Be on the NY-17 Democratic Race",
+        "sourceName": "Nyack News & Views",
+        "url": "https://nyacknewsandviews.com/blog/2026/06/rockland-primary-preview-all-eyes-will-be-on-the-ny-17-democratic-race/",
+        "publishedAt": "2026-06-12",
+        "relevanceSummary": "Nyack News & Views published a comprehensive voter guide drawing directly from the Rockland County Board of Elections website, detailing early voting (June 13–21), primary day (June 23, 6 am–9 pm), and general election (November 3) dates for Rockland County voters in NY-17. The guide also previews the Democratic primary field — now winnowed to five candidates after former FBI agent John Sullivan and Peter Chatzky dropped out — with Beth Davidson and Cait Conley identified as the two frontrunners, based on four New York Times–cited polls that were split evenly between them, while 38–48 percent of Democratic primary voters remained undecided.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-004",
+        "headline": "Democrats Looking to Unseat Mike Lawler Aren't Running on Trump",
+        "sourceName": "City & State New York",
+        "url": "https://www.cityandstateny.com/politics/2026/05/democrats-looking-to-unseat-mike-lawler-arent-running-on-trump/413597/",
+        "publishedAt": "2026-05-18",
+        "relevanceSummary": "City & State NY reported that all five Democratic primary candidates in NY-17's June 23 primary have been strategically advised not to make anti-Trump messaging the centerpiece of their campaigns in this swing district. The article details the ballot-access litigation brought by Lawler's campaign against progressive candidate Effie Phillips-Staley — alleging petition fraud — which a court rejected, allowing Phillips-Staley to remain on both the Democratic Party and Working Families Party lines; Lawler's camp subsequently referred the matter to all four district attorneys in NY-17. The piece underscores the fusion-ballot dimension of the race: WFP and Democratic Party lines are distinct vehicles, and the legal challenge targeted both simultaneously.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-005",
+        "headline": "Lawler Introduces EFFIE Act to Criminalize Federal Ballot Petition Fraud",
+        "sourceName": "Congressman Mike Lawler (official House press release)",
+        "url": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=5944",
+        "publishedAt": "2026-05-21",
+        "relevanceSummary": "Incumbent Rep. Mike Lawler introduced the End Fraudulent Filings that Interfere with Elections (EFFIE) Act on May 21, 2026, which would amend the Federal Election Campaign Act to make it a federal felony — punishable by up to $250,000 in fines and five years in prison — for any federal candidate or campaign staffer to submit fraudulent ballot-access petition signatures. The legislation, whose acronym pointedly mirrors the first name of primary opponent Effie Phillips-Staley, arose directly from Lawler's lawsuit alleging hundreds of NY-17 constituents were signed onto petitions without their knowledge; New York courts rejected the ballot challenge, and Lawler called the state court system 'biased.' The bill creates a direct federal enforcement route for petition-fraud allegations that state courts declined to act on, illustrating a contested procedural ambiguity between state and federal jurisdiction over ballot-access integrity.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-006",
+        "headline": "New York Lawmakers Approve Redistricting Amendment Allowing Mid-Decade Partisan Map Drawing",
+        "sourceName": "Redistricting Online (National Conference of State Legislatures tracker)",
+        "url": "https://redistrictingonline.org/2026/06/09/new-york-lawmakers-approve-amendment-allowing-mid-decade-redistricting-and-partisan-map-drawing/",
+        "publishedAt": "2026-06-09",
+        "relevanceSummary": "The New York State Legislature passed S.10637-A/A.11553 on June 3, 2026 on party-line votes, a constitutional amendment that would explicitly permit mid-decade congressional redistricting, replace the supermajority threshold for overriding the Independent Redistricting Commission with a simple majority, and remove the state constitution's existing prohibition on drawing districts to favor a political party. Rep. Lawler traveled to Albany to publicly oppose the measure, stating: 'The only way they think they can beat me is if they gerrymander.' The amendment requires a second passage by the newly seated 2027 legislature and then voter approval at a statewide referendum — projected for November 2027 — meaning it cannot affect the 2026 elections but could reshape NY-17 lines before the 2028 cycle, making the 2026 general election potentially the last contested in the current district configuration.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      }
+    ],
+    "LAST_REFRESH": {
+      "id": "run-2026-06-11-ny-17-initial",
+      "startedAt": "2026-06-11T19:00:00Z",
+      "completedAt": "2026-06-11T19:45:00Z",
+      "triggerType": "manual",
+      "sourcesChecked": 11,
+      "updatesCreated": 0,
+      "conflictsCreated": 1,
+      "errors": [],
+      "summary": "Initial build June 11, 2026. All 11 sources verified. NY-17 D primary (June 23) is upcoming; R primary effectively uncontested (Lawler). Five-way D primary: Cait Conley (~65% prediction market), Beth Davidson, Effie Phillips-Staley (D+WFP lines), John Cappello, Mike Sacks. General election Nov 3, 2026. 16 election events and 11 voting rules researched from NYS BOE and NY Election Law. All events/rules marked needsReview/unconfirmed. 1 conflict logged: USPS postmark-change guidance vs. NY Election Day postmark deadline, compounded by pending S6995/A8310 harmonization bill."
+    },
+    "NEXT_REFRESH_AT": "2026-06-18T19:00:00Z",
+    "WEEKLY_REPORT": {
+      "id": "wr-ny17-2026-w24",
+      "periodStart": "2026-06-08",
+      "periodEnd": "2026-06-14",
+      "sourcesChecked": 11,
+      "newUpdates": 3,
+      "conflictsCreated": 1,
+      "conflictsResolved": 0,
+      "deadlinesChanged": 0,
+      "rulesChanged": 0,
+      "newsItems": 6,
+      "needsReview": 27,
+      "sourceErrors": 0,
+      "summary": "Initial build week of June 8–14, 2026. NY-17 dashboard created ahead of June 23 primary. Lawler (R) vs. 5-way D primary. Key race ratings: Cook Toss Up, Sabato Leans R. 16 election events cover: primary reg deadline (June 9), early mail request deadline (June 13), early voting June 13–21, primary day June 23, primary mail receipt deadline June 30, primary canvass ~July 16, general reg deadline Oct 10, general early voting Oct 24–Nov 1, general Election Day Nov 3, general mail receipt Nov 10, general canvass ~Nov 24. 11 rules cover: Early Mail Voter Act, absentee, early voting, registration, fusion voting, voter ID, affidavit ballots, USPS postmark risk, envelope cure, polling hours, and redistricting/Hoffman lines. 1 high-severity conflict: USPS postmark-change guidance conflicts with NY's Election Day postmark deadline; compounded by pending S6995/A8310. All sources verified reachable as of June 11, 2026.",
+      "generatedAt": "2026-06-11T19:45:00Z"
+    }
+  }
+}
