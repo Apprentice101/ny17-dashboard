@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-06-11",
-  "updatedAt": "2026-06-11T19:45:00Z",
-  "exportedAt": "2026-07-01T05:40:00.725Z",
+  "dataAsOf": "2026-07-01",
+  "updatedAt": "2026-07-01T19:53:17.487Z",
+  "exportedAt": "2026-07-01T20:03:43.141Z",
   "districtCode": "NY-17",
   "data": {
     "DISTRICT": {
@@ -89,7 +89,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-06-11",
+        "lastVerified": "2026-07-01",
         "confidence": "high"
       },
       "src-rockland-boe": {
@@ -456,7 +456,7 @@
       {
         "id": "rule-ny-early-mail-voter-act",
         "topic": "Early Mail Voter Act — excuse-free mail ballots",
-        "currentRule": "Under S7394A (Early Mail Voter Act, enacted 2023, in effect 2024+), any registered New York voter may request a mail ballot for any election without providing an excuse. This is separate from traditional absentee voting (which still requires an excuse under NY Constitution Art. II § 2). Voters enrolled for the program receive ballots automatically; others apply per-election.",
+        "currentRule": "Due to a February 2024 New York Court of Appeals decision holding the Early Mail Voter Act unconstitutional, New York does not currently offer excuse-free early mail ballots separate from traditional absentee voting. Mail (absentee) voting continues to require a qualifying reason under the New York Constitution, and voters are not automatically enrolled to receive mail ballots for every election.",
         "status": "active",
         "whyItMatters": "All registered NY-17 voters in Rockland, Westchester, Putnam, and Dutchess counties may now vote by mail without an excuse. This significantly expands the pool of mail ballots returned, which affects the post-election canvass timeline in close races.",
         "governingLevel": "statewide",
@@ -488,7 +488,7 @@
       {
         "id": "rule-ny-early-voting",
         "topic": "10-day in-person early voting",
-        "currentRule": "New York provides a mandatory 10-day early voting period ending the day before Election Day. For the June 23, 2026 primary: June 13–21. For the Nov 3, 2026 general: Oct 24–Nov 1. Each county board designates early voting sites. Any registered voter in the county may vote at any designated early voting site regardless of home polling place.",
+        "currentRule": "Early voting for the Primary Election is a nine (9) day period where voters can vote in-person before Election Day in Westchester County. The early voting period will be from Saturday, June 14, 2026 through Sunday, June 22, 2026, and separate schedules are published for each election. Early voting centers are designated by the Westchester County Board of Elections, and any eligible voter in Westchester County may vote at any Westchester County early voting center, subject to the county’s published locations and hours.",
         "status": "active",
         "whyItMatters": "NY-17 voters in all four counties — Rockland, Westchester, Putnam, Dutchess — have access to 10-day early voting. Westchester opened 25 sites for the 2026 primary; Rockland and Putnam BOEs publish their own site schedules. Confirm site locations before visiting, as sites may change cycle to cycle (e.g., Westchester's Ossining site changed for 2026).",
         "governingLevel": "statewide",
@@ -852,17 +852,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-06-11-ny-17-initial",
-      "startedAt": "2026-06-11T19:00:00Z",
-      "completedAt": "2026-06-11T19:45:00Z",
-      "triggerType": "manual",
-      "sourcesChecked": 11,
-      "updatesCreated": 0,
-      "conflictsCreated": 1,
+      "id": "run-2026-07-01-ny17-auto",
+      "startedAt": "2026-07-01T19:52:10.617Z",
+      "completedAt": "2026-07-01T19:53:17.487Z",
+      "triggerType": "scheduled",
+      "sourcesChecked": 23,
+      "updatesCreated": 2,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Initial build June 11, 2026. All 11 sources verified. NY-17 D primary (June 23) is upcoming; R primary effectively uncontested (Lawler). Five-way D primary: Cait Conley (~65% prediction market), Beth Davidson, Effie Phillips-Staley (D+WFP lines), John Cappello, Mike Sacks. General election Nov 3, 2026. 16 election events and 11 voting rules researched from NYS BOE and NY Election Law. All events/rules marked needsReview/unconfirmed. 1 conflict logged: USPS postmark-change guidance vs. NY Election Day postmark deadline, compounded by pending S6995/A8310 harmonization bill."
+      "summary": "Automated refresh completed 2026-07-01 for NY-17. Sources checked: 23. LLM verifications: 23. 2 rule/source content changes + 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-06-18T19:00:00Z",
+    "NEXT_REFRESH_AT": "2026-07-08T19:53:17.487Z",
     "WEEKLY_REPORT": {
       "id": "wr-ny17-2026-w24",
       "periodStart": "2026-06-08",
