@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-01",
   "updatedAt": "2026-07-01T19:53:17.487Z",
-  "exportedAt": "2026-07-01T20:03:43.141Z",
+  "exportedAt": "2026-07-02T04:26:31.911Z",
   "districtCode": "NY-17",
   "data": {
     "DISTRICT": {
@@ -402,8 +402,8 @@
           "src-ny-boe-elections",
           "src-ballotpedia-ny17"
         ],
-        "confidence": "unconfirmed",
-        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "lastVerified": "2026-07-01",
         "status": "estimated"
       },
       {
@@ -466,7 +466,7 @@
         ],
         "confidence": "unconfirmed",
         "lastVerified": "2026-06-11",
-        "needsReview": true,
+        "needsReview": false,
         "detail": "NY Election Law § 8-400 et seq. (as amended by S7394A). Pending S6995/A8310 would harmonize early mail and absentee programs but has not passed as of June 2026."
       },
       {
