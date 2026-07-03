@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-01",
-  "updatedAt": "2026-07-01T19:53:17.487Z",
-  "exportedAt": "2026-07-03T00:03:52.370Z",
+  "dataAsOf": "2026-07-03",
+  "updatedAt": "2026-07-03T00:28:37.240Z",
+  "exportedAt": "2026-07-03T00:37:35.985Z",
   "districtCode": "NY-17",
   "data": {
     "DISTRICT": {
@@ -89,7 +89,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-01",
+        "lastVerified": "2026-07-03",
         "confidence": "high"
       },
       "src-rockland-boe": {
@@ -149,7 +149,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-06-11",
+        "lastVerified": "2026-07-03",
         "confidence": "high"
       },
       "src-nyack-news": {
@@ -852,17 +852,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-01-ny17-auto",
-      "startedAt": "2026-07-01T19:52:10.617Z",
-      "completedAt": "2026-07-01T19:53:17.487Z",
+      "id": "run-2026-07-03-ny17-auto",
+      "startedAt": "2026-07-03T00:27:29.266Z",
+      "completedAt": "2026-07-03T00:28:37.240Z",
       "triggerType": "scheduled",
       "sourcesChecked": 23,
-      "updatesCreated": 2,
+      "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-01 for NY-17. Sources checked: 23. LLM verifications: 23. 2 rule/source content changes + 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-03 for NY-17. Sources checked: 23. LLM verifications: 24. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-08T19:53:17.487Z",
+    "NEXT_REFRESH_AT": "2026-07-10T00:28:37.240Z",
     "WEEKLY_REPORT": {
       "id": "wr-ny17-2026-w24",
       "periodStart": "2026-06-08",
