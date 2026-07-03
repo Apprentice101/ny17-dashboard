@@ -1,8 +1,8 @@
 {
   "version": "1",
   "dataAsOf": "2026-07-03",
-  "updatedAt": "2026-07-03T00:28:37.240Z",
-  "exportedAt": "2026-07-03T00:37:35.985Z",
+  "updatedAt": "2026-07-03T01:33:18.359Z",
+  "exportedAt": "2026-07-03T01:43:06.983Z",
   "districtCode": "NY-17",
   "data": {
     "DISTRICT": {
@@ -77,7 +77,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-06-11",
+        "lastVerified": "2026-07-03",
         "confidence": "high"
       },
       "src-ny-elec-law": {
@@ -849,20 +849,30 @@
         "relevanceSummary": "The New York State Legislature passed S.10637-A/A.11553 on June 3, 2026 on party-line votes, a constitutional amendment that would explicitly permit mid-decade congressional redistricting, replace the supermajority threshold for overriding the Independent Redistricting Commission with a simple majority, and remove the state constitution's existing prohibition on drawing districts to favor a political party. Rep. Lawler traveled to Albany to publicly oppose the measure, stating: 'The only way they think they can beat me is if they gerrymander.' The amendment requires a second passage by the newly seated 2027 legislature and then voter approval at a statewide referendum — projected for November 2027 — meaning it cannot affect the 2026 elections but could reshape NY-17 lines before the 2028 cycle, making the 2026 general election potentially the last contested in the current district configuration.",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-02rt6nk",
+        "headline": "5 Democrats contend in NY-17 congressional primary",
+        "sourceName": "WAMC",
+        "url": "https://www.wamc.org/news/2026-06-15/new-york-17-democratic-primary",
+        "publishedAt": "2026-06-15",
+        "relevanceSummary": "This local report notes that early voting for the NY-17 Democratic primary is underway and runs through Sunday, with Primary Election Day set for June 23, giving voters in the district key dates and context for participating in the primary process.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
       "id": "run-2026-07-03-ny17-auto",
-      "startedAt": "2026-07-03T00:27:29.266Z",
-      "completedAt": "2026-07-03T00:28:37.240Z",
+      "startedAt": "2026-07-03T01:32:13.018Z",
+      "completedAt": "2026-07-03T01:33:18.359Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 23,
-      "updatesCreated": 0,
+      "sourcesChecked": 22,
+      "updatesCreated": 1,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-03 for NY-17. Sources checked: 23. LLM verifications: 24. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-03 for NY-17. Sources checked: 22. LLM verifications: 23. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-10T00:28:37.240Z",
+    "NEXT_REFRESH_AT": "2026-07-10T01:33:18.359Z",
     "WEEKLY_REPORT": {
       "id": "wr-ny17-2026-w24",
       "periodStart": "2026-06-08",
