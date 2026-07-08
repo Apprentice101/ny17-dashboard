@@ -1,8 +1,8 @@
 {
   "version": "1",
   "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T06:24:24.382Z",
-  "exportedAt": "2026-07-08T06:29:06.897Z",
+  "updatedAt": "2026-07-08T19:37:25.092Z",
+  "exportedAt": "2026-07-08T19:43:51.465Z",
   "districtCode": "NY-17",
   "data": {
     "DISTRICT": {
@@ -863,16 +863,16 @@
     ],
     "LAST_REFRESH": {
       "id": "run-2026-07-08-ny17-auto",
-      "startedAt": "2026-07-08T06:24:19.165Z",
-      "completedAt": "2026-07-08T06:24:24.382Z",
+      "startedAt": "2026-07-08T19:37:22.804Z",
+      "completedAt": "2026-07-08T19:37:25.092Z",
       "triggerType": "scheduled",
       "sourcesChecked": 24,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for NY-17. Sources checked: 24. LLM verifications: 25. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-08 for NY-17. Sources checked: 24. LLM verifications: 25. No changes detected; all sources verified unchanged."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T06:24:24.382Z",
+    "NEXT_REFRESH_AT": "2026-07-15T19:37:25.092Z",
     "WEEKLY_REPORT": {
       "id": "wr-ny17-2026-w24",
       "periodStart": "2026-06-08",
