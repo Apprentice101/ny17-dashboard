@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-08",
   "updatedAt": "2026-07-08T19:37:25.092Z",
-  "exportedAt": "2026-07-08T20:35:56.093Z",
+  "exportedAt": "2026-07-09T17:04:33.341Z",
   "districtCode": "NY-17",
   "data": {
     "DISTRICT": {
@@ -635,60 +635,80 @@
     ],
     "RESOURCES": [
       {
-        "id": "res-ny-boe-elections",
-        "label": "NYS Board of Elections — Elections portal",
-        "url": "https://www.elections.ny.gov",
+        "id": "res-register",
+        "label": "Register to vote",
         "description": "Official New York State elections hub: voter registration, election calendar, county BOE directory, early voting and absentee information. Authoritative source for NY-17 election deadlines statewide.",
+        "url": "https://www.elections.ny.gov",
         "governingAuthority": "New York State Board of Elections",
         "sourceType": "official-state",
         "sourceId": "src-ny-boe-elections",
-        "lastVerified": "2026-06-11"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-ny-voter-register",
-        "label": "NY Online Voter Registration",
-        "url": "https://www.elections.ny.gov/VoterRegForm.html",
-        "description": "Register to vote or update your registration online through the NYS BOE. Deadline for 2026 general election: October 10, 2026 (25 days before Nov 3). Also available through NY DMV portal.",
+        "id": "res-locations",
+        "label": "Find voting locations",
+        "description": "New York State polling place locator by address.",
+        "url": "https://voterlookup.elections.ny.gov/",
         "governingAuthority": "New York State Board of Elections",
         "sourceType": "official-state",
-        "sourceId": "src-ny-boe-elections",
-        "lastVerified": "2026-06-11"
+        "sourceId": "src-ny-sos",
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-ny-voter-status",
-        "label": "NY Am I Registered? — Voter status lookup",
-        "url": "https://www.elections.ny.gov/CheckRegistration.html",
+        "id": "res-ballot-box",
+        "label": "Find ballot boxes",
+        "description": "Official instructions for returning early mail and absentee ballots, including drop-off options at the Board of Elections office, early voting sites, and Election Day poll sites.",
+        "url": "https://citizenparticipation.westchestercountyny.gov/voting/request-an-election-ballot",
+        "governingAuthority": "Westchester County Board of Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-ny17-county",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-check-reg",
+        "label": "Check registration status",
         "description": "Check your voter registration status, find your assigned polling place, and confirm your early voting site in Rockland, Westchester, Putnam, or Dutchess County.",
+        "url": "https://www.elections.ny.gov/CheckRegistration.html",
         "governingAuthority": "New York State Board of Elections",
         "sourceType": "official-state",
         "sourceId": "src-ny-boe-elections",
-        "lastVerified": "2026-06-11"
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-track",
+        "label": "Track your ballot",
+        "description": "New York State voter lookup and mail-ballot tracker.",
+        "url": "https://voterlookup.elections.ny.gov/",
+        "governingAuthority": "NY State Board of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-ny-boe",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-results",
+        "label": "Election results",
+        "description": "Official election results from the New York State Board of Elections.",
+        "url": "https://www.elections.ny.gov/election-results",
+        "governingAuthority": "New York State Board of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-ny-sos",
+        "lastVerified": "2026-07-08"
       },
       {
         "id": "res-ny-absentee-portal",
         "label": "NY Absentee / Early Mail Ballot Request",
-        "url": "https://www.elections.ny.gov/VotingAbsentee.html",
         "description": "Request an absentee ballot (with excuse) or an early mail ballot (no excuse required, under Early Mail Voter Act). Covers the June 23, 2026 primary and November 3, 2026 general election.",
+        "url": "https://www.elections.ny.gov/VotingAbsentee.html",
         "governingAuthority": "New York State Board of Elections",
         "sourceType": "official-state",
         "sourceId": "src-ny-boe-elections",
-        "lastVerified": "2026-06-11"
-      },
-      {
-        "id": "res-rockland-boe",
-        "label": "Rockland County Board of Elections",
-        "url": "https://rocklandgov.com/departments/board-of-elections/",
-        "description": "Official elections page for Rockland County voters (Spring Valley, New City, Nanuet, Nyack, Haverstraw area) — where Lawler kicked off his 2026 re-election campaign. Early voting sites, polling places, canvass updates.",
-        "governingAuthority": "Rockland County Board of Elections",
-        "sourceType": "official-county",
-        "sourceId": "src-rockland-boe",
         "lastVerified": "2026-06-11"
       },
       {
         "id": "res-westchester-boe",
         "label": "Westchester County Board of Elections",
-        "url": "https://www.westchestergov.com/boe",
         "description": "Official elections page for Westchester County voters in NY-17 municipalities (Peekskill, Cortlandt, Ossining, Somers, Yorktown, Bedford, and others). 25 early voting centers for 2026 primary. Note: Ossining site changed from Caputo Community Center to St. Ann's School for 2026.",
+        "url": "https://www.westchestergov.com/boe",
         "governingAuthority": "Westchester County Board of Elections",
         "sourceType": "official-county",
         "sourceId": "src-westchester-boe",
@@ -697,8 +717,8 @@
       {
         "id": "res-putnam-boe",
         "label": "Putnam County Board of Elections",
-        "url": "https://www.putnamcountyny.com/board-of-elections/",
         "description": "Official elections page for Putnam County voters (Carmel, Brewster, Patterson, Mahopac area) — all of Putnam is in NY-17. Early voting locations, absentee/early mail ballot requests, and results.",
+        "url": "https://www.putnamcountyny.com/board-of-elections/",
         "governingAuthority": "Putnam County Board of Elections",
         "sourceType": "official-county",
         "sourceId": "src-putnam-boe",
@@ -707,8 +727,8 @@
       {
         "id": "res-dutchess-boe",
         "label": "Dutchess County Board of Elections",
-        "url": "https://www.dutchessny.gov/Departments/Board-of-Elections/Board-of-Elections.htm",
         "description": "Official elections page for Dutchess County voters in NY-17 municipalities (East Fishkill, Pawling town, Pawling village, Beekman partial).",
+        "url": "https://www.dutchessny.gov/Departments/Board-of-Elections/Board-of-Elections.htm",
         "governingAuthority": "Dutchess County Board of Elections",
         "sourceType": "official-county",
         "sourceId": "src-dutchess-boe",
@@ -717,8 +737,8 @@
       {
         "id": "res-ballotpedia-ny17",
         "label": "Ballotpedia — NY-17 2026 election",
-        "url": "https://ballotpedia.org/New_York%27s_17th_Congressional_District_election,_2026",
         "description": "Nonpartisan reference page for NY-17's 2026 election: candidate profiles, primary schedule, race ratings (Cook: Toss Up; Sabato: Leans R), and campaign finance summary.",
+        "url": "https://ballotpedia.org/New_York%27s_17th_Congressional_District_election,_2026",
         "governingAuthority": "Ballotpedia",
         "sourceType": "secondary",
         "sourceId": "src-ballotpedia-ny17",
