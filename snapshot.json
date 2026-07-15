@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T19:37:25.092Z",
-  "exportedAt": "2026-07-09T17:04:33.341Z",
+  "dataAsOf": "2026-07-15",
+  "updatedAt": "2026-07-15T06:28:14.435Z",
+  "exportedAt": "2026-07-15T06:41:02.585Z",
   "districtCode": "NY-17",
   "data": {
     "DISTRICT": {
@@ -77,7 +77,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-ny-elec-law": {
@@ -149,7 +149,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-nyack-news": {
@@ -879,20 +879,30 @@
         "relevanceSummary": "This local report notes that early voting for the NY-17 Democratic primary is underway and runs through Sunday, with Primary Election Day set for June 23, giving voters in the district key dates and context for participating in the primary process.[1]",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0tqpanf",
+        "headline": "NYC Board of Elections to certify primary results, 3 races to be manually recounted",
+        "sourceName": "NY1",
+        "url": "https://ny1.com/nyc/all-boroughs/politics/2026/07/02/nyc-board-of-elections-to-certify-primary-results--3-races-to-be-manually-recounted",
+        "publishedAt": "2026-07-02",
+        "relevanceSummary": "NY1 reports that the NYC Board of Elections is certifying primary results and that races with a margin under 0.5 percentage points or fewer than 20 votes must undergo a manual recount under New York election law, illustrating procedures voters should expect in close contests.[4]",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-08-ny17-auto",
-      "startedAt": "2026-07-08T19:37:22.804Z",
-      "completedAt": "2026-07-08T19:37:25.092Z",
+      "id": "run-2026-07-15-ny17-auto",
+      "startedAt": "2026-07-15T06:27:08.899Z",
+      "completedAt": "2026-07-15T06:28:14.435Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 24,
-      "updatesCreated": 0,
+      "sourcesChecked": 14,
+      "updatesCreated": 1,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for NY-17. Sources checked: 24. LLM verifications: 25. No changes detected; all sources verified unchanged."
+      "summary": "Automated refresh completed 2026-07-15 for NY-17. Sources checked: 14. LLM verifications: 15. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T19:37:25.092Z",
+    "NEXT_REFRESH_AT": "2026-07-22T06:28:14.435Z",
     "WEEKLY_REPORT": {
       "id": "wr-ny17-2026-w24",
       "periodStart": "2026-06-08",
