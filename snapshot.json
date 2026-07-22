@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-15",
-  "updatedAt": "2026-07-15T06:28:14.435Z",
-  "exportedAt": "2026-07-15T06:41:02.585Z",
+  "dataAsOf": "2026-07-22",
+  "updatedAt": "2026-07-22T06:39:27.298Z",
+  "exportedAt": "2026-07-22T06:52:37.598Z",
   "districtCode": "NY-17",
   "data": {
     "DISTRICT": {
@@ -77,7 +77,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-ny-elec-law": {
@@ -149,7 +149,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-nyack-news": {
@@ -889,20 +889,40 @@
         "relevanceSummary": "NY1 reports that the NYC Board of Elections is certifying primary results and that races with a margin under 0.5 percentage points or fewer than 20 votes must undergo a manual recount under New York election law, illustrating procedures voters should expect in close contests.[4]",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0tddii8",
+        "headline": "NY Elections, Census and Redistricting Update 07/20/26 - CityLand",
+        "sourceName": "CityLand",
+        "url": "https://www.citylandnyc.org/ny-elections-census-and-redistricting-update-07-20-26/",
+        "publishedAt": "2026-07-20",
+        "relevanceSummary": "This statewide New York elections update includes a procedural change affecting how proposed constitutional amendments are presented on the ballot, which can matter to NY-17 voters because statewide ballot language and rules apply across the state. It is directly relevant to ballot procedures and election administration in New York.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0mu5d79",
+        "headline": "What to expect in New York's state primary; Mamdani a key figure in progressive politics",
+        "sourceName": "ABC7 New York",
+        "url": "https://abc7ny.com/post/what-expect-new-yorks-state-primary-mamdani-key-figure-endorsements/19354119/",
+        "publishedAt": "2026-07-14",
+        "relevanceSummary": "This piece explains New York’s primary voting rules, including that only voters registered with a party can vote in that party’s primary, poll closing time at 9 p.m. ET statewide, and the automatic recount thresholds, all of which apply directly to NY-17 voters.[3]",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-15-ny17-auto",
-      "startedAt": "2026-07-15T06:27:08.899Z",
-      "completedAt": "2026-07-15T06:28:14.435Z",
+      "id": "run-2026-07-22-ny17-auto",
+      "startedAt": "2026-07-22T06:38:26.445Z",
+      "completedAt": "2026-07-22T06:39:27.298Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 14,
-      "updatesCreated": 1,
+      "sourcesChecked": 15,
+      "updatesCreated": 2,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-15 for NY-17. Sources checked: 14. LLM verifications: 15. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-22 for NY-17. Sources checked: 15. LLM verifications: 16. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-22T06:28:14.435Z",
+    "NEXT_REFRESH_AT": "2026-07-29T06:39:27.298Z",
     "WEEKLY_REPORT": {
       "id": "wr-ny17-2026-w24",
       "periodStart": "2026-06-08",
