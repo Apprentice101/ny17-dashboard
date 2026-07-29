@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-22",
-  "updatedAt": "2026-07-22T06:39:27.298Z",
-  "exportedAt": "2026-07-22T21:17:30.894Z",
+  "dataAsOf": "2026-07-29",
+  "updatedAt": "2026-07-29T06:43:14.084Z",
+  "exportedAt": "2026-07-29T06:56:15.608Z",
   "districtCode": "NY-17",
   "data": {
     "DISTRICT": {
@@ -77,7 +77,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-ny-elec-law": {
@@ -89,7 +89,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-rockland-boe": {
@@ -149,7 +149,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-nyack-news": {
@@ -909,20 +909,30 @@
         "relevanceSummary": "This piece explains New York’s primary voting rules, including that only voters registered with a party can vote in that party’s primary, poll closing time at 9 p.m. ET statewide, and the automatic recount thresholds, all of which apply directly to NY-17 voters.[3]",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0th82nr",
+        "headline": "NY Elections, Census and Redistricting Update 07/27/26",
+        "sourceName": "CityLand",
+        "url": "https://www.citylandnyc.org/ny-elections-census-and-redistricting-update-07-27-26/",
+        "publishedAt": "2026-07-27",
+        "relevanceSummary": "This roundup says New York lawmakers approved A5846/S4602, a bill that would create remedies for disruptions in voting during an election, which could affect how polling places and election administration issues are handled for NY-17 voters. It also notes the U.S. District Court for the Northern District of New York dismissed the DOJ's voter-roll lawsuit, which matters to statewide election-administration rules.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-22-ny17-auto",
-      "startedAt": "2026-07-22T06:38:26.445Z",
-      "completedAt": "2026-07-22T06:39:27.298Z",
+      "id": "run-2026-07-29-ny17-auto",
+      "startedAt": "2026-07-29T06:42:08.751Z",
+      "completedAt": "2026-07-29T06:43:14.084Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 15,
-      "updatesCreated": 2,
+      "sourcesChecked": 16,
+      "updatesCreated": 1,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-22 for NY-17. Sources checked: 15. LLM verifications: 16. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-29 for NY-17. Sources checked: 16. LLM verifications: 17. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-29T06:39:27.298Z",
+    "NEXT_REFRESH_AT": "2026-08-05T06:43:14.084Z",
     "WEEKLY_REPORT": {
       "id": "wr-ny17-2026-w24",
       "periodStart": "2026-06-08",
