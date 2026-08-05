@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-29",
-  "updatedAt": "2026-07-29T06:43:14.084Z",
-  "exportedAt": "2026-07-29T06:56:15.608Z",
+  "dataAsOf": "2026-08-05",
+  "updatedAt": "2026-08-05T06:36:41.735Z",
+  "exportedAt": "2026-08-05T06:49:47.704Z",
   "districtCode": "NY-17",
   "data": {
     "DISTRICT": {
@@ -77,7 +77,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-ny-elec-law": {
@@ -89,7 +89,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-rockland-boe": {
@@ -149,7 +149,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-nyack-news": {
@@ -922,17 +922,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-29-ny17-auto",
-      "startedAt": "2026-07-29T06:42:08.751Z",
-      "completedAt": "2026-07-29T06:43:14.084Z",
+      "id": "run-2026-08-05-ny17-auto",
+      "startedAt": "2026-08-05T06:35:48.291Z",
+      "completedAt": "2026-08-05T06:36:41.735Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 16,
-      "updatesCreated": 1,
+      "sourcesChecked": 15,
+      "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-29 for NY-17. Sources checked: 16. LLM verifications: 17. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-05 for NY-17. Sources checked: 15. LLM verifications: 16. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-05T06:43:14.084Z",
+    "NEXT_REFRESH_AT": "2026-08-12T06:36:41.735Z",
     "WEEKLY_REPORT": {
       "id": "wr-ny17-2026-w24",
       "periodStart": "2026-06-08",
