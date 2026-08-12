@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-05",
-  "updatedAt": "2026-08-05T06:36:41.735Z",
-  "exportedAt": "2026-08-05T06:49:47.704Z",
+  "dataAsOf": "2026-08-12",
+  "updatedAt": "2026-08-12T05:37:45.972Z",
+  "exportedAt": "2026-08-12T05:49:15.058Z",
   "districtCode": "NY-17",
   "data": {
     "DISTRICT": {
@@ -77,7 +77,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-ny-elec-law": {
@@ -149,7 +149,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-nyack-news": {
@@ -919,20 +919,70 @@
         "relevanceSummary": "This roundup says New York lawmakers approved A5846/S4602, a bill that would create remedies for disruptions in voting during an election, which could affect how polling places and election administration issues are handled for NY-17 voters. It also notes the U.S. District Court for the Northern District of New York dismissed the DOJ's voter-roll lawsuit, which matters to statewide election-administration rules.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-058r31d",
+        "headline": "Senate Democrats vote against bill requiring photo ID to cast ballots",
+        "sourceName": "Fox News",
+        "url": "https://noticias.foxnews.com/politics/schumer-said-democrats-support-voter-id-then-every-senate-democrat-voted-against-gop-bill",
+        "publishedAt": "2026-08-09",
+        "relevanceSummary": "This Spanish-language Fox report describes the same Senate vote on a federal photo-ID proposal and notes that Democrats blocked the measure. It is relevant for NY-17 voters because it concerns voter-ID rules and the possibility of stricter federal ballot-identification requirements.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0hhp5ak",
+        "headline": "Senate Democrats vote against bill requiring photo ID to cast ballots",
+        "sourceName": "Fox News",
+        "url": "https://www.foxnews.com/politics/schumer-said-democrats-support-voter-id-then-every-senate-democrat-voted-against-gop-bill",
+        "publishedAt": "2026-08-09",
+        "relevanceSummary": "Fox News reports that the Senate blocked a GOP photo-ID bill and says the measure would have required photo identification to vote, with a copy of ID for mail voting. This matters to NY-17 voters because it concerns voter-ID and mail-ballot ID-copy requirements, even though the bill was not adopted.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0makgvg",
+        "headline": "Senate Democrats vote against bill requiring photo ID to cast ballots",
+        "sourceName": "Just the News",
+        "url": "https://justthenews.com/government/congress/senate-democrats-vote-against-bill-requiring-photo-id-cast-ballots",
+        "publishedAt": "2026-08-09",
+        "relevanceSummary": "This covers the Senate’s failure to advance a federal photo-ID bill that would have required voters to show photo identification and, for mail voting, submit a copy of the ID. While the proposal is federal and did not become law, it is directly relevant to NY-17 voters because it addresses voter-ID and mail-ballot documentation rules that could affect future federal election policy.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-01f4l8o",
+        "headline": "Roll Call Vote 119 th Congress - 2 nd Session",
+        "sourceName": "U.S. Senate",
+        "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00231.htm",
+        "publishedAt": "2026-08-08",
+        "relevanceSummary": "The Senate roll-call record confirms the cloture vote on the motion to proceed to S. 5271, a photo-ID voting bill, and shows it failed 52-46. That procedural action is relevant to NY-17 voters because it tracks a live federal effort to change voter-ID rules and mail-ballot documentation requirements.",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0m9fmaw",
+        "headline": "S.5271 - 119th Congress (2025-2026): A bill to amend the Help America Vote Act of 2002 to require voters to provide photo identification.",
+        "sourceName": "Congress.gov",
+        "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5271",
+        "publishedAt": "2026-08-08",
+        "relevanceSummary": "Congress.gov shows the text and procedural status of the photo-ID bill that would amend federal election law to require photo identification. NY-17 voters should watch this because it would affect federal-election voting procedures, including in-person ID rules and a mail-voting ID-copy requirement if it were enacted.",
+        "tag": "legislation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-05-ny17-auto",
-      "startedAt": "2026-08-05T06:35:48.291Z",
-      "completedAt": "2026-08-05T06:36:41.735Z",
+      "id": "run-2026-08-12-ny17-auto",
+      "startedAt": "2026-08-12T05:36:49.456Z",
+      "completedAt": "2026-08-12T05:37:45.972Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 15,
-      "updatesCreated": 0,
+      "sourcesChecked": 17,
+      "updatesCreated": 5,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-05 for NY-17. Sources checked: 15. LLM verifications: 16. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-12 for NY-17. Sources checked: 17. LLM verifications: 17. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-12T06:36:41.735Z",
+    "NEXT_REFRESH_AT": "2026-08-19T05:37:45.972Z",
     "WEEKLY_REPORT": {
       "id": "wr-ny17-2026-w24",
       "periodStart": "2026-06-08",
