@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-12",
-  "updatedAt": "2026-08-12T05:37:45.972Z",
-  "exportedAt": "2026-08-12T05:49:15.058Z",
+  "dataAsOf": "2026-08-19",
+  "updatedAt": "2026-08-19T04:54:12.303Z",
+  "exportedAt": "2026-08-19T05:09:23.484Z",
   "districtCode": "NY-17",
   "data": {
     "DISTRICT": {
@@ -77,7 +77,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-ny-elec-law": {
@@ -149,7 +149,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-nyack-news": {
@@ -969,20 +969,70 @@
         "relevanceSummary": "Congress.gov shows the text and procedural status of the photo-ID bill that would amend federal election law to require photo identification. NY-17 voters should watch this because it would affect federal-election voting procedures, including in-person ID rules and a mail-voting ID-copy requirement if it were enacted.",
         "tag": "legislation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-07wug9z",
+        "headline": "Election Day 2026 Preparations",
+        "sourceName": "CNY Solidarity Coalition",
+        "url": "https://www.cnysolidarity.org/2026/08/13/election-day-2026-preparations/",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "This piece outlines New York mail-ballot timelines (mailing 40 days before the election, deadlines for receipt and postmark), options to drop off completed ballots at Boards of Elections and early-voting sites, and confirms that all ballots in New York are paper and subject to hand recounts in very close races, which directly affects how NY-17 voters can cast and return ballots and what to expect if results are tight.[1]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0z2ak87",
+        "headline": "Voter Information for November 2026 General Election",
+        "sourceName": "League of Women Voters (New York)",
+        "url": "https://lwvw.org/voter-information-for-november-2026-general-election/",
+        "publishedAt": "2026-08-09",
+        "relevanceSummary": "This statewide voter information page reiterates that the November 3, 2026 general election requires in-person voting at assigned polling locations, clarifying expectations for NY-17 voters about where and how they must cast their ballot on Election Day.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0p1itrq",
+        "headline": "New Yorker's Guide to Voting, Registration & Deadlines 2026",
+        "sourceName": "Utica Phoenix",
+        "url": "https://uticaphoenix.net/a-new-yorkers-guide-to-voting-registration-absentee-ballots-and-election-deadlines/",
+        "publishedAt": "2026-08-08",
+        "relevanceSummary": "This statewide guide details New York voter registration options (online, by mail, and in person), early voting procedures, and key deadlines for registration and absentee ballot applications, giving NY-17 voters a clear, current overview of how and when they can vote in 2026.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0ky6boo",
+        "headline": "LWVNYS Board Announcements",
+        "sourceName": "League of Women Voters of New York State",
+        "url": "https://lwvny.org/lwvnys-board-announcements/",
+        "publishedAt": "2026-08-03",
+        "relevanceSummary": "These board announcements summarize recent court cases and executive orders affecting New York elections and emphasize that, aside from advising mail voters to submit ballots early due to slower USPS processing, there are currently no significant procedural changes to how New Yorkers, including NY-17 voters, will cast ballots in November.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0jsuhtb",
+        "headline": "New York Governments Now Required to Submit Election Data to State",
+        "sourceName": "JD Supra",
+        "url": "https://www.jdsupra.com/legalnews/new-york-governments-now-required-to-3525329/",
+        "publishedAt": "2026-07-30",
+        "relevanceSummary": "This legal analysis describes the Flateau Act’s requirement that local election authorities transmit voting records to the New York State Board of Elections shortly after certification, a statewide election-administration change that affects how counties in NY-17 report and manage election data.",
+        "tag": "legislation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-12-ny17-auto",
-      "startedAt": "2026-08-12T05:36:49.456Z",
-      "completedAt": "2026-08-12T05:37:45.972Z",
+      "id": "run-2026-08-19-ny17-auto",
+      "startedAt": "2026-08-19T04:52:26.644Z",
+      "completedAt": "2026-08-19T04:54:12.303Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 17,
+      "sourcesChecked": 15,
       "updatesCreated": 5,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-12 for NY-17. Sources checked: 17. LLM verifications: 17. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-19 for NY-17. Sources checked: 15. LLM verifications: 16. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-19T05:37:45.972Z",
+    "NEXT_REFRESH_AT": "2026-08-26T04:54:12.303Z",
     "WEEKLY_REPORT": {
       "id": "wr-ny17-2026-w24",
       "periodStart": "2026-06-08",
