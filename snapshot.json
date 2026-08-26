@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-19",
-  "updatedAt": "2026-08-19T04:54:12.303Z",
-  "exportedAt": "2026-08-19T05:09:23.484Z",
+  "dataAsOf": "2026-08-26",
+  "updatedAt": "2026-08-26T04:59:36.451Z",
+  "exportedAt": "2026-08-26T05:17:15.958Z",
   "districtCode": "NY-17",
   "data": {
     "DISTRICT": {
@@ -77,7 +77,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-ny-elec-law": {
@@ -149,7 +149,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-nyack-news": {
@@ -1019,20 +1019,70 @@
         "relevanceSummary": "This legal analysis describes the Flateau Act’s requirement that local election authorities transmit voting records to the New York State Board of Elections shortly after certification, a statewide election-administration change that affects how counties in NY-17 report and manage election data.",
         "tag": "legislation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0x5o8tw",
+        "headline": "Video New York’s 17th district and the battle for control of Congress",
+        "sourceName": "ABC News",
+        "url": "https://abcnews.com/video/135932112/",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "This video segment discusses New York’s 17th Congressional District race and includes coverage of the Supreme Court’s backing of Trump-aligned mail-in voting restrictions, informing NY-17 voters about potential changes to absentee voting rules that could affect how they cast ballots in November.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0fh7zri",
+        "headline": "Court Allows Trump to Pursue Mail Voting Limits, for Now",
+        "sourceName": "The New York Times",
+        "url": "https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "This article explains that the U.S. Supreme Court has allowed the Trump administration to move forward, at least temporarily, with efforts to limit mail-in voting, which could affect how New York administers absentee and mail ballots for the November general election, including for NY-17 voters, depending on how federal rules and litigation interact with state procedures.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0v4e27w",
+        "headline": "USPS moves ahead with mail-in ballot rule despite block from Obama-appointed judge",
+        "sourceName": "New York Post",
+        "url": "https://nypost.com/2026/08/22/us-news/usps-moves-ahead-with-mail-in-ballot-rule-despite-block-from-obama-appointed-judge/",
+        "publishedAt": "2026-08-22",
+        "relevanceSummary": "This article reports that USPS is implementing a rule requiring states to notify the Postal Service in advance about mail-in ballot plans and to submit lists of voters receiving mail ballots, along with unique barcodes on outgoing and return envelopes, which could change the logistics and timelines of absentee voting for NY-17 constituents.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0wdy99q",
+        "headline": "US Postal Service rule tightens mail-in voting despite court ...",
+        "sourceName": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/aug/21/us-postal-service-mail-in-voter-rule",
+        "publishedAt": "2026-08-22",
+        "relevanceSummary": "The story describes a new USPS rule that requires states to provide names and barcodes tied to mail-in ballots for federal elections, and notes that USPS may not deliver ballots from jurisdictions that do not comply, directly affecting how New York must manage absentee ballot lists and envelope specifications for NY-17 voters who use mail voting.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-03y5rde",
+        "headline": "Postal Service Publishes Finalized Plan to Restrict Mail Ballots",
+        "sourceName": "The New York Times",
+        "url": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "This piece details USPS’s finalized regulations stating the agency may not deliver mail ballots in states that do not share certain voter data and meet specific envelope standards, which has direct implications for New York’s absentee ballot processing and for NY-17 voters who rely on mail voting in the November general election.",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-19-ny17-auto",
-      "startedAt": "2026-08-19T04:52:26.644Z",
-      "completedAt": "2026-08-19T04:54:12.303Z",
+      "id": "run-2026-08-26-ny17-auto",
+      "startedAt": "2026-08-26T04:57:35.192Z",
+      "completedAt": "2026-08-26T04:59:36.451Z",
       "triggerType": "scheduled",
       "sourcesChecked": 15,
       "updatesCreated": 5,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-19 for NY-17. Sources checked: 15. LLM verifications: 16. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-26 for NY-17. Sources checked: 15. LLM verifications: 15. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-26T04:54:12.303Z",
+    "NEXT_REFRESH_AT": "2026-09-02T04:59:36.451Z",
     "WEEKLY_REPORT": {
       "id": "wr-ny17-2026-w24",
       "periodStart": "2026-06-08",
