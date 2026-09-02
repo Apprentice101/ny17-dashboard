@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-26",
-  "updatedAt": "2026-08-26T04:59:36.451Z",
-  "exportedAt": "2026-08-26T05:17:15.958Z",
+  "dataAsOf": "2026-09-02",
+  "updatedAt": "2026-09-02T08:49:03.369Z",
+  "exportedAt": "2026-09-02T09:11:08.566Z",
   "districtCode": "NY-17",
   "data": {
     "DISTRICT": {
@@ -77,7 +77,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-ny-elec-law": {
@@ -89,7 +89,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-rockland-boe": {
@@ -149,7 +149,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-nyack-news": {
@@ -1069,20 +1069,100 @@
         "relevanceSummary": "This piece details USPS’s finalized regulations stating the agency may not deliver mail ballots in states that do not share certain voter data and meet specific envelope standards, which has direct implications for New York’s absentee ballot processing and for NY-17 voters who rely on mail voting in the November general election.",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0iu6zha",
+        "headline": "What the Supreme Court's Mail-In Voting Ruling Means for New York Voters",
+        "sourceName": "WRGB CBS 6 Albany",
+        "url": "https://cbs6albany.com/community/what-are-your-rights/what-the-supreme-courts-mail-in-voting-ruling-means-for-new-york-voters-what-are-your-rights-harding-mazzotti",
+        "publishedAt": "2026-09-01",
+        "relevanceSummary": "Explains that a recent U.S. Supreme Court ruling about mail‑in voting and the Postal Service does not immediately change how New Yorkers cast ballots, and notes USPS said it will not implement its new ballot‑mail rule for the 2026 election while injunctions remain, so NY‑17 voters can continue using existing mail‑voting procedures while being advised to confirm details with their local election board.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0vk9nai",
+        "headline": "New York Voter ID & Registration Deadline",
+        "sourceName": "Alto",
+        "url": "https://alto.gab.com/politics/voter-id/new-york",
+        "publishedAt": "2026-08-30",
+        "relevanceSummary": "Provides an updated statewide overview of New York voter‑ID rules and registration deadlines, clarifying that most NY voters, including those in NY‑17, are not turned away for lack of ID except for some first‑time mail registrants who may need to show identification the first time they vote.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0nflmzb",
+        "headline": "Nueva York",
+        "sourceName": "VoteRiders",
+        "url": "https://voteriders.org/es/states/nueva-york/",
+        "publishedAt": "2026-08-29",
+        "relevanceSummary": "Explains New York’s voter‑registration identity verification requirements, including use of a driver’s license, state ID, or last four digits of a Social Security number and the circumstances in which a voter must present ID at the polls, offering Spanish‑language guidance directly relevant to NY‑17 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-05g46gn",
+        "headline": "USPS Ballot Mail Rule: Overview and Potential Impact",
+        "sourceName": "Congressional Research Service",
+        "url": "https://www.congress.gov/crs-product/IF13297",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "Summarizes the new federal USPS ballot‑mail rule requiring states to provide participation lists for mail/absentee ballots and discusses how the rule could affect ballot delivery timelines, giving NY‑17 voters important context on potential future changes to how their mail ballots are processed.",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-053huqn",
+        "headline": "Adult & Teen Services at EPL: Early Voting & Election Info",
+        "sourceName": "Eastchester Public Library",
+        "url": "https://eastchesterlibrary.org/adult/vote",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "Announces that Eastchester Public Library is an early‑voting site for Westchester County and explains early‑voting dates, the rule that early voting ends the Sunday before Election Day, and how to find your Election Day polling place—information that applies to Westchester County voters in NY‑17.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0017n46",
+        "headline": "Voto por correo continúa sin cambios en NY: lo que debes saber antes de noviembre",
+        "sourceName": "El Diario NY",
+        "url": "https://eldiariony.com/2026/08/28/voto-por-correo-continua-sin-cambios-en-ny-lo-que-debes-saber-antes-de-noviembre/",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "Reports that New York’s existing no‑excuse mail‑in voting rules remain in effect after a judge temporarily blocked a federal effort to change USPS ballot‑mail procedures, and outlines key statewide deadlines for requesting and returning mail ballots that apply to all New York voters, including those in NY‑17.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0nta2bd",
+        "headline": "Voting rights groups sue over USPS mail-in ballot rule",
+        "sourceName": "Spectrum News 1 New York",
+        "url": "https://spectrumlocalnews.com/nys/central-ny/politics/2026/08/27/new-york-mail-in-ballot-usps-rule",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "Describes lawsuits by voting‑rights groups challenging a new USPS federal rule for handling mail‑in ballots and notes that New Yorkers planning to vote by mail should request ballots early from their boards of elections, highlighting potential impacts on mail ballot timing and reliability for NY‑17 voters.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0tv2xc3",
+        "headline": "Attorney General James Blocks Unlawful USPS Mail-In Voting Rule",
+        "sourceName": "New York Attorney General",
+        "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-blocks-unlawful-usps-mail-in-voting-rule",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "Announces that New York’s attorney general secured a court order blocking implementation of a new USPS mail‑in ballot rule that would have required voter lists and could have affected ballot delivery, meaning NY‑17 voters can continue to vote by mail under existing state procedures for now.",
+        "tag": "litigation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-26-ny17-auto",
-      "startedAt": "2026-08-26T04:57:35.192Z",
-      "completedAt": "2026-08-26T04:59:36.451Z",
+      "id": "run-2026-09-02-ny17-auto",
+      "startedAt": "2026-09-02T08:46:25.705Z",
+      "completedAt": "2026-09-02T08:49:03.369Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 15,
-      "updatesCreated": 5,
+      "sourcesChecked": 16,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-26 for NY-17. Sources checked: 15. LLM verifications: 15. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-02 for NY-17. Sources checked: 16. LLM verifications: 16. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-02T04:59:36.451Z",
+    "NEXT_REFRESH_AT": "2026-09-09T08:49:03.369Z",
     "WEEKLY_REPORT": {
       "id": "wr-ny17-2026-w24",
       "periodStart": "2026-06-08",
