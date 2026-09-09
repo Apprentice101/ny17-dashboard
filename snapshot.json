@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-02",
-  "updatedAt": "2026-09-02T08:49:03.369Z",
-  "exportedAt": "2026-09-02T09:11:08.566Z",
+  "dataAsOf": "2026-09-09",
+  "updatedAt": "2026-09-09T09:02:43.819Z",
+  "exportedAt": "2026-09-09T09:21:28.591Z",
   "districtCode": "NY-17",
   "data": {
     "DISTRICT": {
@@ -77,7 +77,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-ny-elec-law": {
@@ -149,7 +149,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-nyack-news": {
@@ -1149,20 +1149,80 @@
         "relevanceSummary": "Announces that New York’s attorney general secured a court order blocking implementation of a new USPS mail‑in ballot rule that would have required voter lists and could have affected ballot delivery, meaning NY‑17 voters can continue to vote by mail under existing state procedures for now.",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-09bwrx5",
+        "headline": "Trump administration files another Supreme Court emergency appeal over USPS mail ballot rules",
+        "sourceName": "ABC7 New York",
+        "url": "https://abc7ny.com/story/trump-administration-files-another-supreme-court-emergency-appeal-usps-mail-ballot-rules/19799139/",
+        "publishedAt": "2026-09-07",
+        "relevanceSummary": "This report says a court order blocking USPS mail-in voting restrictions remains in place indefinitely unless a higher court changes it. NY-17 voters should care because any change to federal mail-ballot handling could affect how New York ballots are transmitted and returned.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0ec56ik",
+        "headline": "US judge again blocks Postal Service's mail-in voting restrictions",
+        "sourceName": "Reuters",
+        "url": "https://www.reuters.com/legal/government/us-judge-again-blocks-postal-services-mail-in-voting-restrictions-2026-09-04/",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "Reuters reports that a federal judge extended a block on a USPS rule that would tighten mail-in voting requirements ahead of the November congressional elections. That matters for NY-17 voters because New York’s mail-ballot procedures would otherwise be affected by the federal change.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0the6br",
+        "headline": "Attorney General James Blocks Unlawful USPS Mail-In Voting Rule",
+        "sourceName": "New York State Attorney General",
+        "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-blocks-unlawful-usps-mail-voting-rule",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "New York’s attorney general said a federal judge granted a temporary restraining order pausing a USPS mail-in voting rule, which is relevant to NY-17 voters because it concerns how mailed ballots are handled in New York. The legal fight could affect mail-ballot processing and return procedures statewide.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0e1bo7z",
+        "headline": "Hochul blasts Trump's efforts to curtail voting by mail",
+        "sourceName": "WXXI News",
+        "url": "https://www.wxxinews.org/text/new-york-public-news-network/2026-08-26/hochul-blasts-trumps-efforts-to-curtail-voting-by-mail",
+        "publishedAt": "2026-08-26",
+        "relevanceSummary": "This New York Public News Network story addresses the state’s response to proposed federal voting-by-mail restrictions and says the court found it was too early for the order to take effect. It is relevant statewide, including NY-17, because it concerns whether New York voters can keep using current mail-ballot procedures.",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-05gselj",
+        "headline": "Supreme Court Ruling Puts Long Island's Mail-In Ballot Rules In Flux",
+        "sourceName": "Patch",
+        "url": "https://patch.com/new-york/longisland/supreme-court-ruling-puts-long-islands-mail-ballot-rules-flux",
+        "publishedAt": "2026-08-26",
+        "relevanceSummary": "This piece says New York’s existing absentee and early-mail-ballot rules remain in place for now, including how to request ballots and where they can be returned. While focused on Long Island, the statewide mail-ballot rules described apply to NY-17 voters as well.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0v67vtq",
+        "headline": "NY mail voting is unchanged for this fall as Trump seeks U.S. control",
+        "sourceName": "lohud",
+        "url": "https://www.lohud.com/story/news/politics/2026/08/26/ny-mail-voting-is-unchanged-for-fall-as-trump-legal-fight-continues/91454557007/",
+        "publishedAt": "2026-08-26",
+        "relevanceSummary": "This explains that New York mail voting is still operating under current state rules, including applications through the state portal or local election offices and return options by mail, hand-delivery, or at poll sites. That directly affects NY-17 voters because statewide mail-ballot procedures apply in the district and the article notes ballots are set to be sent beginning Sept. 18.",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-02-ny17-auto",
-      "startedAt": "2026-09-02T08:46:25.705Z",
-      "completedAt": "2026-09-02T08:49:03.369Z",
+      "id": "run-2026-09-09-ny17-auto",
+      "startedAt": "2026-09-09T08:59:58.250Z",
+      "completedAt": "2026-09-09T09:02:43.819Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 16,
-      "updatesCreated": 8,
-      "conflictsCreated": 0,
+      "sourcesChecked": 15,
+      "updatesCreated": 6,
+      "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-02 for NY-17. Sources checked: 16. LLM verifications: 16. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-09 for NY-17. Sources checked: 15. LLM verifications: 16. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-09-09T08:49:03.369Z",
+    "NEXT_REFRESH_AT": "2026-09-16T09:02:43.819Z",
     "WEEKLY_REPORT": {
       "id": "wr-ny17-2026-w24",
       "periodStart": "2026-06-08",
