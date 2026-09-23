@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-16",
-  "updatedAt": "2026-09-16T09:33:40.682Z",
-  "exportedAt": "2026-09-16T09:53:01.357Z",
+  "dataAsOf": "2026-09-23",
+  "updatedAt": "2026-09-23T09:21:46.858Z",
+  "exportedAt": "2026-09-23T09:39:17.964Z",
   "districtCode": "NY-17",
   "data": {
     "DISTRICT": {
@@ -77,7 +77,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-ny-elec-law": {
@@ -149,7 +149,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-nyack-news": {
@@ -1289,20 +1289,100 @@
         "relevanceSummary": "This article describes a statewide New York bill that would automatically extend polling‑place hours if voting machines are down, federal agents obstruct voting, or a site becomes inaccessible for more than an hour, a potential rule change that would directly impact Election Day procedures and access for NY‑17 voters if signed into law.",
         "tag": "legislation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0xw272m",
+        "headline": "Which voter ID rules have changed since 2022? Here's what you need for the 2026 midterms",
+        "sourceName": "MEAWW",
+        "url": "https://news.meaww.com/which-voter-id-rules-have-changed-since-2022-heres-what-you-need-for-the-2026-midterms",
+        "publishedAt": "2026-09-22",
+        "relevanceSummary": "The article states that New York does not generally require voters to present identification at the polls and that voters generally sign the poll book instead. This statewide voter-ID information applies directly to NY-17 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0g0lzu8",
+        "headline": "NY Elections, Census and Redistricting Update 09/22/26",
+        "sourceName": "CityLand",
+        "url": "https://www.citylandnyc.org/ny-elections-census-and-redistricting-update-09-22-26/",
+        "publishedAt": "2026-09-22",
+        "relevanceSummary": "The update lists New York’s 2026 general-election deadlines, including October 24 for voter-registration and absentee/early-mail-ballot applications, November 2 for in-person ballot applications, and November 3 for mail-ballot postmarks. These statewide deadlines apply to NY-17 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0dztahn",
+        "headline": "Long Island voters to face unusually crowded ballot as many local elections move to even years",
+        "sourceName": "News 12 Westchester",
+        "url": "https://westchester.news12.com/2026/09/21/long-island-voters-to-face-unusually-crowded-ballot-as-many-local-elections-move-to-even-years/1Qn7wak3QK5EVbMuWbh3VC",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "The report covers New York’s 2026 shift of many local contests to even-year elections, which increases the number of races appearing on ballots. It is a statewide election-administration and ballot-content development relevant to New York voters, though its direct effect on NY-17 is indirect.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-09rgl6a",
+        "headline": "2026 Voter Registration Deadlines: NY, NJ, CT Guide ...",
+        "sourceName": "ABC7 New York",
+        "url": "https://abc7ny.com/post/when-is-deadline-register-vote-2026-midterm-elections-ny-nj-ct/19854826/",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "The guide reports that New York boards of elections must receive general-election registration applications by October 24, 2026, and identifies October 24 through November 1 as the early-voting period. These statewide procedures apply to NY-17 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0vcpxlv",
+        "headline": "Ulster County launches ballot tracker system",
+        "sourceName": "News10 ABC",
+        "url": "https://www.news10.com/news/your-local-election-hq/ulster-county-launches-ballot-tracker-system/",
+        "publishedAt": "2026-09-18",
+        "relevanceSummary": "Ulster County’s new ballot-tracking system provides voters with status information for mail and absentee ballots and lists key application, postmark, receipt, and in-person-return deadlines. The county-specific system is outside NY-17 but is relevant as New York county election-administration coverage.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0etw9yv",
+        "headline": "Get Ready for 2026 Election Day: Nov. 3",
+        "sourceName": "Oswego County Today",
+        "url": "https://www.einpresswire.com/article/943188499/get-ready-for-2026-election-day-nov-3",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The guidance reiterates New York’s October 24 registration and mail-ballot-request deadline, November 2 in-person application deadline, and November 3 postmark deadline, while advising voters to mail ballots early or obtain a manual postmark. These procedures apply statewide, including NY-17.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0wnc5fa",
+        "headline": "Dutchess County Board of Elections Provides Guidance to Absentee and Vote-by-Mail Voters",
+        "sourceName": "Dutchess County Board of Elections",
+        "url": "https://elections.dutchessny.gov/2026/09/17/dutchess-county-board-of-elections-provides-guidance-to-absentee-and-vote-by-mail-voters/",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The county board announced that military, overseas, and previously requested absentee ballots would be issued beginning September 18, and explained that voters may request, complete, and return ballots in person at the board of elections. County-level guidance can indicate New York administrative practices, although Dutchess County is outside NY-17.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0t7afod",
+        "headline": "No changes to mail-in ballot voting – for now",
+        "sourceName": "Spectrum News Rochester",
+        "url": "https://spectrumlocalnews.com/nys/rochester/news/2026/09/17/no-changes-to-mail-in-ballot-voting-for-now-",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The article reports that New York mail-in-ballot procedures remain unchanged, with ballots required to be postmarked by November 3 and received by November 10. The statewide procedure applies directly to NY-17 voters who use absentee or early-mail ballots.",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-16-ny17-auto",
-      "startedAt": "2026-09-16T09:31:28.266Z",
-      "completedAt": "2026-09-16T09:33:40.682Z",
+      "id": "run-2026-09-23-ny17-auto",
+      "startedAt": "2026-09-23T09:20:20.654Z",
+      "completedAt": "2026-09-23T09:21:46.858Z",
       "triggerType": "scheduled",
       "sourcesChecked": 15,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-16 for NY-17. Sources checked: 15. LLM verifications: 15. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-23 for NY-17. Sources checked: 15. LLM verifications: 15. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-23T09:33:40.682Z",
+    "NEXT_REFRESH_AT": "2026-09-30T09:21:46.858Z",
     "WEEKLY_REPORT": {
       "id": "wr-ny17-2026-w24",
       "periodStart": "2026-06-08",
