@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-23",
-  "updatedAt": "2026-09-23T09:21:46.858Z",
-  "exportedAt": "2026-09-23T09:39:17.964Z",
+  "dataAsOf": "2026-09-30",
+  "updatedAt": "2026-09-30T10:25:20.176Z",
+  "exportedAt": "2026-09-30T10:39:27.019Z",
   "districtCode": "NY-17",
   "data": {
     "DISTRICT": {
@@ -77,7 +77,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-ny-elec-law": {
@@ -149,7 +149,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-nyack-news": {
@@ -1369,20 +1369,50 @@
         "relevanceSummary": "The article reports that New York mail-in-ballot procedures remain unchanged, with ballots required to be postmarked by November 3 and received by November 10. The statewide procedure applies directly to NY-17 voters who use absentee or early-mail ballots.",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0g3wree",
+        "headline": "NY Elections, Census and Redistricting Update 09/28/26",
+        "sourceName": "CityLand",
+        "url": "https://www.citylandnyc.org/ny-elections-census-and-redistricting-update-09-28-26/",
+        "publishedAt": "2026-09-28",
+        "relevanceSummary": "The article discusses New York procedures for challenging a board of elections decision not to canvass an absentee or early-mail ballot, including a 20-day window for judicial proceedings. Those statewide ballot-challenge rules apply to voters in NY-17.",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-047auyi",
+        "headline": "With election nearing, make plans to vote",
+        "sourceName": "Observer Today",
+        "url": "https://www.observertoday.com/opinion/commentary/2026/09/with-election-nearing-make-plans-to-vote/",
+        "publishedAt": "2026-09-26",
+        "relevanceSummary": "The article summarizes New York voting procedures, including the October 24 registration and early-mail-ballot application deadline, nine days of early voting, Election Day polling hours of 6 a.m. to 9 p.m., and use of the state voter-lookup tool. Although published as commentary, its procedural information is directly relevant to NY-17 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0eaqrw9",
+        "headline": "Could NY use expanded federal voter citizenship database?",
+        "sourceName": "Spectrum News 1",
+        "url": "https://spectrumlocalnews.com/nys/central-ny/news/2026/09/25/supreme-court-ruling-opens-door-for-new-york-to-use-expanded-federal-voter-citizenship-database",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "The article reports that a Supreme Court ruling allows New York officials to consider using the expanded federal SAVE database to verify citizenship status in voter-roll administration. The ruling does not automatically enroll New York in the program, but any state decision could affect voter-registration records statewide, including NY-17.",
+        "tag": "litigation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-23-ny17-auto",
-      "startedAt": "2026-09-23T09:20:20.654Z",
-      "completedAt": "2026-09-23T09:21:46.858Z",
+      "id": "run-2026-09-30-ny17-auto",
+      "startedAt": "2026-09-30T10:23:53.236Z",
+      "completedAt": "2026-09-30T10:25:20.176Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 15,
-      "updatesCreated": 8,
+      "sourcesChecked": 13,
+      "updatesCreated": 3,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-23 for NY-17. Sources checked: 15. LLM verifications: 15. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-30 for NY-17. Sources checked: 13. LLM verifications: 13. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-30T09:21:46.858Z",
+    "NEXT_REFRESH_AT": "2026-10-07T10:25:20.176Z",
     "WEEKLY_REPORT": {
       "id": "wr-ny17-2026-w24",
       "periodStart": "2026-06-08",
