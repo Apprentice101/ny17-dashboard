@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-30",
-  "updatedAt": "2026-09-30T10:25:20.176Z",
-  "exportedAt": "2026-09-30T10:39:27.019Z",
+  "dataAsOf": "2026-10-07",
+  "updatedAt": "2026-10-07T11:00:41.226Z",
+  "exportedAt": "2026-10-07T11:14:43.227Z",
   "districtCode": "NY-17",
   "data": {
     "DISTRICT": {
@@ -149,7 +149,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "high"
       },
       "src-nyack-news": {
@@ -1399,20 +1399,70 @@
         "relevanceSummary": "The article reports that a Supreme Court ruling allows New York officials to consider using the expanded federal SAVE database to verify citizenship status in voter-roll administration. The ruling does not automatically enroll New York in the program, but any state decision could affect voter-registration records statewide, including NY-17.",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0agw80d",
+        "headline": "Ahead of midterm elections, NY AG Letitia James issues guidance on voter rights",
+        "sourceName": "BTPM",
+        "url": "https://www.btpm.org/local/2026-10-06/ahead-of-midterm-elections-ny-ag-letitia-james-issues-guidance-on-voter-rights",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "This regional news report summarizes statewide guidance directly applicable to NY-17 voters, including registration and mail-ballot deadlines, the right to vote without photo ID, affidavit ballots, accessibility and language assistance, and the right to remain in line after polls close.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0catwl5",
+        "headline": "Attorney General James Issues Voter Guidance to Inform New Yorkers of Their Rights",
+        "sourceName": "New York State Office of the Attorney General",
+        "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-issues-voter-guidance-inform-new-yorkers-their-rights",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "New York Attorney General Letitia James published statewide voting guidance relevant to NY-17 voters. It covers the October 24 registration and mail-ballot-request deadline, November 2 in-person mail-ballot deadline, November 3 Election Day hours, mail-ballot return rules, ballot drop-off options, and the fact that New York does not require photo ID to vote.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0rsi69a",
+        "headline": "Guest Editorial: What you need to know about voting, from the League of Women Voters of Northwest Westchester County.",
+        "sourceName": "The Croton Chronicle",
+        "url": "https://thecrotonchronicle.substack.com/p/guest-editorial-what-you-need-to?action=share",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "The article provides Westchester County voters with practical procedures for obtaining and returning mail ballots, registering by October 24, early voting at designated locations, and voting at the assigned Election Day polling place. It also notes identification guidance for first-time voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0sw22p6",
+        "headline": "본선거 한 달 앞으로…조기투표 10월 24일~11월 1일",
+        "sourceName": "Korea Daily",
+        "url": "https://www.koreadaily.com/article/20261001214851139",
+        "publishedAt": "2026-10-02",
+        "relevanceSummary": "The report gives New York statewide election-calendar information relevant to NY-17 voters, including early voting from October 24 through November 1, the October 24 voter-registration and mail-ballot deadline, and the November 2 deadline for in-person mail-ballot applications.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0a1m0ug",
+        "headline": "New York 17th District Race 2026: Conley vs. Lawler",
+        "sourceName": "Stated Record",
+        "url": "https://statedrecord.com/races/new-york-us-house-17-2026",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "This NY-17 election page reports the November 3 general-election ballot lineup and identifies Cait Conley on the Democratic and Working Families lines and Mike Lawler on the Republican and Conservative lines. It also references Dutchess County sample ballots posted September 23.",
+        "tag": "candidates",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-30-ny17-auto",
-      "startedAt": "2026-09-30T10:23:53.236Z",
-      "completedAt": "2026-09-30T10:25:20.176Z",
+      "id": "run-2026-10-07-ny17-auto",
+      "startedAt": "2026-10-07T10:59:38.374Z",
+      "completedAt": "2026-10-07T11:00:41.226Z",
       "triggerType": "scheduled",
       "sourcesChecked": 13,
-      "updatesCreated": 3,
+      "updatesCreated": 5,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-30 for NY-17. Sources checked: 13. LLM verifications: 13. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-07 for NY-17. Sources checked: 13. LLM verifications: 13. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-07T10:25:20.176Z",
+    "NEXT_REFRESH_AT": "2026-10-14T11:00:41.226Z",
     "WEEKLY_REPORT": {
       "id": "wr-ny17-2026-w24",
       "periodStart": "2026-06-08",
