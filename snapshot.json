@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-07",
-  "updatedAt": "2026-10-07T11:00:41.226Z",
-  "exportedAt": "2026-10-07T11:14:43.227Z",
+  "dataAsOf": "2026-10-14",
+  "updatedAt": "2026-10-14T09:23:20.628Z",
+  "exportedAt": "2026-10-14T09:34:19.400Z",
   "districtCode": "NY-17",
   "data": {
     "DISTRICT": {
@@ -77,7 +77,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-ny-elec-law": {
@@ -149,7 +149,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-nyack-news": {
@@ -1449,20 +1449,60 @@
         "relevanceSummary": "This NY-17 election page reports the November 3 general-election ballot lineup and identifies Cait Conley on the Democratic and Working Families lines and Mike Lawler on the Republican and Conservative lines. It also references Dutchess County sample ballots posted September 23.",
         "tag": "candidates",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-02cbsc3",
+        "headline": "Early voting made easier: Clinton County receives grants to support 2026 election operations",
+        "sourceName": "WPTZ/NBC5",
+        "url": "https://www.mynbc5.com/article/clinton-county-grants-2026-election/74121519",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "Clinton County received funding supporting early and absentee-mail voting operations, with officials emphasizing prompt ballot drop-off before the November 3 deadline. The county-level administrative development is relevant as a potential model for New York election operations.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0jln98c",
+        "headline": "Central and Upstate New York 2026 voter guide",
+        "sourceName": "WRVO",
+        "url": "https://www.wrvo.org/elections/2026-10-09/central-upstate-ny-voter-guide-2026",
+        "publishedAt": "2026-10-09",
+        "relevanceSummary": "The guide lists New York's October 24 voter-registration and mail-ballot application deadline, October 24–November 1 early-voting period, and November 3 ballot-return rules. These statewide procedures apply directly to NY-17 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0zcdej9",
+        "headline": "Making Democracy Work: Preparing to vote on November 3",
+        "sourceName": "TBR Newsmedia",
+        "url": "https://tbrnewsmedia.com/making-democracy-work-preparing-to-vote-on-november-3/",
+        "publishedAt": "2026-10-08",
+        "relevanceSummary": "The article explains New York early-mail voting and the requirement that completed, signed ballots be postmarked or delivered by 9 p.m. on Election Day. The statewide mail-ballot guidance is relevant to NY-17 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0mt6rbw",
+        "headline": "AG outlines voter protections ahead of Nov. 3 election",
+        "sourceName": "The Bee",
+        "url": "https://www.beenews.com/lancaster_bee/news/ag-outlines-voter-protections-ahead-of-nov-3-election/article_4d90ea7f-d05b-4945-8cff-02642e2f407e.html",
+        "publishedAt": "2026-10-08",
+        "relevanceSummary": "The article summarizes statewide New York procedures, including October 24 registration and mail-ballot deadlines, early voting from October 24 through November 1, ballot drop-off options, and the right of voters in line by 9 p.m. to vote. These rules apply to NY-17 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-07-ny17-auto",
-      "startedAt": "2026-10-07T10:59:38.374Z",
-      "completedAt": "2026-10-07T11:00:41.226Z",
+      "id": "run-2026-10-14-ny17-auto",
+      "startedAt": "2026-10-14T09:22:28.765Z",
+      "completedAt": "2026-10-14T09:23:20.628Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 13,
-      "updatesCreated": 5,
+      "sourcesChecked": 15,
+      "updatesCreated": 4,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-07 for NY-17. Sources checked: 13. LLM verifications: 13. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-14 for NY-17. Sources checked: 15. LLM verifications: 15. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-14T11:00:41.226Z",
+    "NEXT_REFRESH_AT": "2026-10-21T09:23:20.628Z",
     "WEEKLY_REPORT": {
       "id": "wr-ny17-2026-w24",
       "periodStart": "2026-06-08",
