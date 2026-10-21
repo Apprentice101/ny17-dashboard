@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-14",
-  "updatedAt": "2026-10-14T09:23:20.628Z",
-  "exportedAt": "2026-10-14T09:34:19.400Z",
+  "dataAsOf": "2026-10-21",
+  "updatedAt": "2026-10-21T09:13:47.773Z",
+  "exportedAt": "2026-10-21T09:24:10.164Z",
   "districtCode": "NY-17",
   "data": {
     "DISTRICT": {
@@ -77,7 +77,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "high"
       },
       "src-ny-elec-law": {
@@ -149,7 +149,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "high"
       },
       "src-nyack-news": {
@@ -1489,20 +1489,100 @@
         "relevanceSummary": "The article summarizes statewide New York procedures, including October 24 registration and mail-ballot deadlines, early voting from October 24 through November 1, ballot drop-off options, and the right of voters in line by 9 p.m. to vote. These rules apply to NY-17 voters.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-08n45di",
+        "headline": "Mail-in ballots are already being filled out in New York State for the 2026 election",
+        "sourceName": "Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/mail-ballots-already-being-filled-233203118.html",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "The report notes that New York voters may request mail ballots through October 24 and return completed ballots in person at early-voting sites, county polling places on Election Day, or county election offices. It also emphasizes signing the ballot and following the included instructions.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0ijqyod",
+        "headline": "Voting rights advocates discuss the voting process ahead of the start of early voting in NY",
+        "sourceName": "WRVO",
+        "url": "https://www.wrvo.org/2026-10-20/voting-rights-advocates-discuss-the-voting-process-ahead-of-the-start-of-early-voting-in-ny",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "The statewide public-radio report says eligible New Yorkers may register online, in person, or by mail through October 24, request mail ballots through October 24 online or by mail, and apply in person through November 2. It also explains the November 3 postmark and November 10 receipt deadlines.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0tmwray",
+        "headline": "AG James urges New Yorkers to vote by mail ‘with confidence’",
+        "sourceName": "Troy Record",
+        "url": "https://www.troyrecord.com/2026/10/20/ag-james-urges-new-yorkers-to-vote-by-mail-with-confidence/",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "The article reiterates New York’s October 24 deadline for mail-ballot applications and explains that voters may return completed ballots at early-voting sites, county election offices, or Election Day polling places. Ballots must be signed, postmarked by November 3, and received by November 10.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-04jwyqw",
+        "headline": "What to know ahead of early voting in New York",
+        "sourceName": "WBNG",
+        "url": "https://www.wbng.com/2026/10/20/what-know-ahead-early-voting-new-york/",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "The statewide voter guide explains that New Yorkers may vote early in person or use an absentee ballot, which can be mailed to the local board of elections or deposited in a ballot drop box. These procedures apply to NY-17 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-061uy2t",
+        "headline": "New York mail-ballot request deadline is Oct. 24, attorney general says",
+        "sourceName": "FingerLakes1.com",
+        "url": "https://www.fingerlakes1.com/2026/10/19/new-york-mail-ballot-request-deadline-is-oct-24-attorney-general-says/",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "Any registered New York voter may request an early-mail ballot without stating a reason, with applications due October 24 through online, mail, email, or fax channels. The article also describes countywide return options and the requirement to sign and date the ballot envelope.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0xfvmhy",
+        "headline": "New York Attorney General James promises secure elections as voting deadlines approach",
+        "sourceName": "CNYcentral",
+        "url": "https://cnycentral.com/news/2026-election/new-york-attorney-general-james-promises-secure-elections-as-voting-deadlines-approach",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "New York voters can use the State Board of Elections ballot tracker and return mail ballots at county voting locations or election offices. The article also lists the October 24 registration and mail-ballot deadlines and the November 10 receipt deadline.",
+        "tag": "security",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0ppi3ge",
+        "headline": "Attorney General James Urges New Yorkers to Vote by Mail with Confidence, Key Deadlines",
+        "sourceName": "New York Attorney General",
+        "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-urges-new-yorkers-vote-mail-confidence-key-deadlines",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "New York voters, including those in NY-17, can request a mail ballot online, by mail, email, or fax through October 24, and in person through November 2. Completed ballots may be returned at county early-voting or Election Day sites; ballots must be postmarked by November 3 and received by November 10 to count.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ny17-0gqjkhy",
+        "headline": "How to vote early in New York’s 2026 General Election",
+        "sourceName": "NEWS10 ABC",
+        "url": "https://www.news10.com/capitol/ny-early-voting-2026/",
+        "publishedAt": "2026-10-16",
+        "relevanceSummary": "The guide describes New York’s three voting methods: Election Day voting, early in-person voting from October 24 through November 1, and voting by mail. It lists October 24 registration and mail-ballot request deadlines, the November 2 in-person application deadline, and the November 10 receipt deadline.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-14-ny17-auto",
-      "startedAt": "2026-10-14T09:22:28.765Z",
-      "completedAt": "2026-10-14T09:23:20.628Z",
+      "id": "run-2026-10-21-ny17-auto",
+      "startedAt": "2026-10-21T09:12:54.005Z",
+      "completedAt": "2026-10-21T09:13:47.773Z",
       "triggerType": "scheduled",
       "sourcesChecked": 15,
-      "updatesCreated": 4,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-14 for NY-17. Sources checked: 15. LLM verifications: 15. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-21 for NY-17. Sources checked: 15. LLM verifications: 15. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-21T09:23:20.628Z",
+    "NEXT_REFRESH_AT": "2026-10-28T09:13:47.773Z",
     "WEEKLY_REPORT": {
       "id": "wr-ny17-2026-w24",
       "periodStart": "2026-06-08",
