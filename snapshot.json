@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-11-04",
-  "updatedAt": "2026-11-04T11:47:09.626Z",
-  "exportedAt": "2026-11-04T11:51:59.606Z",
+  "dataAsOf": "2026-11-11",
+  "updatedAt": "2026-11-11T11:38:23.938Z",
+  "exportedAt": "2026-11-11T11:45:20.849Z",
   "districtCode": "NY-17",
   "data": {
     "DISTRICT": {
@@ -149,7 +149,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-11-04",
+        "lastVerified": "2026-11-11",
         "confidence": "high"
       },
       "src-nyack-news": {
@@ -1572,17 +1572,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-11-04-ny17-auto",
-      "startedAt": "2026-11-04T11:47:07.472Z",
-      "completedAt": "2026-11-04T11:47:09.626Z",
+      "id": "run-2026-11-11-ny17-auto",
+      "startedAt": "2026-11-11T11:38:17.882Z",
+      "completedAt": "2026-11-11T11:38:23.938Z",
       "triggerType": "scheduled",
       "sourcesChecked": 24,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-11-04 for NY-17. Sources checked: 24. LLM verifications: 25. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-11-11 for NY-17. Sources checked: 24. LLM verifications: 25. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-11-11T11:47:09.626Z",
+    "NEXT_REFRESH_AT": "2026-11-18T11:38:23.938Z",
     "WEEKLY_REPORT": {
       "id": "wr-ny17-2026-w24",
       "periodStart": "2026-06-08",
